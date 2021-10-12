@@ -1,0 +1,1037 @@
+Ratings,No_of_ratings,Screen_size(inches),Processor_speed(GHz),Cache_memory(MBs),RAM(Gig),RAM_max,Memory_slots,RAM_speed(MHz),Harddrive_capacity(Gig),Weight(kg),Warranty,Adapter(watts),Battery_cells,Screen_pixel_density(width),Screen_pixel_density(height),Processor_cores,Length(mm),Width(mm),Height(mm),USB(2.0)_ports,Bluetooth_version,USB(typeC)_ports,Operating_system,Display_type,Touchscreen,Optical_Drive,Battery_type,Fingerprint,Processor_brand,Graphics_brand,USB(2.0),Bluetooth_,USB(typeC),Keyboard_backlit,Harddrive_type,Brand
+3.9799999999999995,554,15.6,1.1,4,4,12,1,2400,256,1.7,1.0,45,2,1366,768,2,362.2,253.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.340000000000001,346,14.0,1.6,6,16,27,2,3200,512,1.55,1.0,50,3,1920,1080,6,329.0,227.0,18.0,2,5.0,2,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.5,55,13.3,1.3,4,8,17,1,1866,512,1.12,1.0,45,4,1920,1080,4,324.61,229.61,9.9,2,4.1,2,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Acer
+4.070000000000001,86,14.0,1.6,6,2,16,1,2400,1000,1.7,1.0,52,3,1920,1080,6,323.75199999999995,228.18,19.17,1,4.1,1,Windows, LED , No ,Yes,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,No,no,HDD,Lenovo
+4.5,1977,14.0,2.1,6,8,13,1,2400,1000,1.47,1.0,65,3,1920,1080,4,324.0,225.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,HP
+4.0,262,15.0,2.2,4,4,22,1,2266,1000,1.9,1.0,45,3,1920,1080,4,381.0,251.0,27.2,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+4.7,8,17.3,2.3,2,4,32,1,2400,1000,2.7,1.0,64,4,1920,1080,4,399.8,279.4,26.6,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,No,yes,HDD,Asus
+4.6,11,14.0,4.0,12,8,20,2,2666,512,1.46,1.0,65,3,1920,1080,6,324.0,225.0,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+4.32,192,16.1,2.6599999999999997,16,4,32,2,3200,512,2.46,1.0,150,4,1920,1080,8,370.0,235.0,26.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,no,SSD,HP
+3.7,16,14.0,2.1,4,8,12,2,2666,256,1.5,1.0,45,3,1920,1080,4,327.1,241.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+3.84,67,15.6,1.8,8,2,8,1,2666,1000,1.75,1.0,58,2,1920,1080,8,357.0,230.0,20.0,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+3.8,211,15.6,2.0,4,8,16,1,2133,1000,2.3,1.0,45,2,1366,768,4,381.6,262.8,24.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.5,441,15.6,2.1,6,8,12,1,2400,1000,1.68,1.0,45,2,1920,1080,4,357.0,230.0,19.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,HDD,Asus
+4.4,1135,14.0,2.0,12,8,18,1,3200,512,1.4,1.0,45,3,1920,1080,8,324.0,215.0,19.1,2,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.0,10,14.0,1.3,8,16,30,1,3733,1000,1.35,1.0,60,4,1920,1080,8,320.3,215.6,14.2,1,5.0,2,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.21,159,14.0,1.6,2,4,24,1,1760,16,1.7,1.0,45,3,1366,768,2,340.0,236.0,17.8,2,4.0,2, Google Chrome , LED , No ,Yes,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,no,SSD,Acer
+4.03,395,15.6,2.31,4,12,29,1,2320,512,2.47,1.0,35,3,1920,1080,4,311.0,231.0,23.1,1,4.0,2,Windows, LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,Yes,No,no,SSD,Lenovo
+3.79,1,14.0,1.6,6,8,25,1,2666,1000,5.0,1.0,65,3,1920,1080,6,325.0,232.0,18.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+4.3,69,15.6,3.0,6,4,17,1,2933,256,1.7,1.0,45,3,1920,1080,4,365.0,240.0,18.9,3,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.5,570,14.0,2.1,16,8,18,1,2666,256,1.58,1.0,83,3,1920,1080,4,322.0,223.0,19.7,2,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.36,349,14.0,1.6,6,16,25,2,3200,512,1.55,1.0,45,3,1920,1080,6,329.0,227.0,18.0,2,5.0,2,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.430000000000001,292,15.6,2.6,12,4,8,1,2826,1000,2.3,1.0,64,4,1920,1080,8,365.0,260.0,24.0,2,4.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.8,5,14.0,3.0,12,6,32,1,3200,1000,1.7,1.0,180,4,2560,1440,8,324.0,220.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.6,256,13.0,1.4,6,8,16,1,2133,256,1.4,1.0,58,4,2560,1600,6,304.0,212.4,15.6,2,5.0,2,MAC, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Apple
+4.0,234,15.6,2.1,4,8,12,1,2666,1000,1.7,1.0,45,2,1920,1080,4,362.2,253.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+4.0,64,15.6,2.4,8,8,12,1,3200,512,1.65,1.0,65,3,1920,1080,6,359.2,236.5,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+3.5,4,14.0,2.3,3,4,23,1,2133,500,1.79,1.0,41,4,1366,768,4,345.4,241.5,23.9,2,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.2,26,15.6,2.5,8,8,32,2,2933,1000,2.3,1.0,150,3,1920,1080,6,360.0,275.0,21.0,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.4,56,17.3,2.73,18,8,16,1,3093,1000,2.9,1.0,280,4,1920,1080,8,397.0,284.0,25.9,1,5.2,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,MSI
+4.7,544,15.6,2.4,8,4,12,1,2666,256,2.24,1.0,150,3,1920,1080,6,360.0,256.0,23.4,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.29,371,15.6,2.6,6,4,32,1,1600,1000,2.4,1.0,55,3,1920,1080,4,389.0,257.0,23.0,1,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,yes,HDD,Acer
+4.2,1399,15.6,1.6,6,8,17,1,2400,1000,1.77,1.0,41,3,1920,1080,6,376.0,246.0,22.5,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,HP
+4.0,9,15.6,2.1,4,8,13,1,2666,512,1.74,1.0,65,3,1920,1080,4,358.5,242.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+3.7,67,14.0,2.3,2,4,32,2,2106,1000,1.8,1.0,58,4,1366,768,2,340.0,245.0,24.0,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Acer
+3.96,18,15.6,2.67,24,8,16,1,3173,1000,2.1,1.0,230,4,2560,1400,8,358.0,248.0,19.8,2,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,MSI
+3.91,560,15.6,1.1,4,4,21,1,2160,1000,1.9,1.0,33,3,1366,768,4,381.0,251.0,27.2,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+3.6,5,14.0,1.3,8,16,29,1,2400,1000,1.2,1.0,65,4,3840,2160,8,319.0,197.0,12.2,1,5.0,2,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+4.14,131,15.6,3.0,6,8,13,1,3013,512,1.65,1.0,65,3,1920,1080,4,359.2,236.5,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+5.0,2,15.6,2.6,12,8,16,1,2666,1000,2.2,1.0,57,3,1920,1080,8,361.42,267.0,22.4,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+3.8,104,15.6,1.2,4,4,19,1,2666,1000,1.77,1.0,41,3,1920,1080,4,358.0,242.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.459999999999999,115,15.6,2.6399999999999997,8,4,8,1,3040,512,2.35,1.0,150,3,1920,1080,6,359.0,259.0,24.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,MSI
+3.8,239,14.0,1.7,6,8,15,2,2666,1000,1.58,1.0,44,3,1920,1080,4,329.0,240.0,20.0,1,4.1,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Dell
+4.279999999999999,743,11.6,1.6,2,4,24,1,1600,32,1.27,1.0,45,3,1366,768,4,293.87,203.96,19.3,1,4.1,1, Google Chrome , LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Acer
+4.0,421,15.6,2.1,2,4,8,2,1600,500,2.1,1.0,65,4,1366,768,3,384.0,265.0,25.0,2,4.0,2, DOS , LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+3.6,50,15.6,2.1,4,8,15,1,2400,1000,1.74,1.0,41,3,1366,768,4,358.0,242.0,19.9,2,4.0,1, DOS , LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,HP
+4.4,56,17.3,2.73,18,8,16,1,3093,1000,2.9,1.0,280,4,1920,1080,8,397.0,284.0,25.9,1,5.2,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,MSI
+4.5,916,14.0,1.6,6,8,20,1,2666,512,1.58,1.0,53,3,1920,1080,6,322.0,223.0,19.7,2,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.05,2,14.0,1.0,6,2,8,1,2666,512,1.69,1.0,52,3,1920,1080,2,323.6,228.0,17.9,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Lenovo
+4.31,218,13.3,4.2,8,8,32,2,3733,512,1.2,1.0,64,4,1920,1080,6,296.0,198.0,15.0,2,5.0,2,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Dell
+3.8,1859,15.6,1.2,4,4,12,1,2666,1000,1.85,1.0,65,2,1920,1080,4,362.2,251.5,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+4.4,1433,15.6,2.3,8,4,8,1,2666,1000,2.53,1.0,56,4,1920,1080,6,380.0,258.0,22.7,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Dell
+4.500000000000001,320,12.3,1.9,8,8,22,1,1866,256,0.77,1.0,53,4,2736,1824,6,292.0,201.0,8.5,1,4.1,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Microsoft
+4.1,42,14.0,4.2,8,8,29,1,2986,512,1.05,1.0,65,4,1920,1080,6,318.9,206.98,14.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Acer
+4.2,146,14.0,1.6700000000000004,6,2,8,1,2213,512,1.5,1.0,70,4,1920,1080,6,323.0,223.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.1000000000000005,1654,15.6,2.1,4,8,12,1,2666,1000,1.7,1.0,45,2,1920,1080,4,362.2,253.4,19.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+4.04,89,14.0,1.2,4,8,12,2,2666,256,1.6,1.0,65,2,1920,1080,4,324.69,223.36000000000004,19.51,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.3100000000000005,256,13.3,1.9,2,4,59,1,2533,64,1.23,1.2,45,4,1920,1080,2,308.2900000000001,207.95,17.87,2,5.0,2, Google Chrome , QLED , Yes ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Samsung
+4.3,153,13.3,2.0,12,16,29,1,3413,512,1.32,1.0,45,4,1920,1080,8,308.1,206.5,18.3,2,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.3,2,14.1,2.1,4,4,17,1,2400,1000,1.6,1.0,45,3,1920,1080,4,325.0,216.0,23.1,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+3.5,3,15.6,2.3,16,8,32,1,3200,1000,1.9,1.0,76,4,1920,1080,8,360.0,252.0,18.9,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.3,295,15.6,2.4,8,8,15,1,3200,1000,1.8,1.0,61,3,1920,1080,6,356.0,233.0,18.0,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.35,208,14.0,2.4,8,8,16,1,3093,512,1.14,1.0,43,3,1920,1080,6,325.0,216.0,17.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.5,4,15.6,1.0,6,2,8,1,2666,1000,1.85,1.0,41,3,1920,1080,2,361.6,245.6,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,HP
+4.8,8,15.6,2.5,8,4,8,1,2933,1000,2.3,1.0,60,4,1920,1080,6,363.06,259.61,23.5,2,5.0,2,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.1,11,15.6,1.6,6,8,12,1,2133,512,1.6,1.0,32,2,1920,1080,6,360.2,234.9,22.9,2,4.2,1,Windows, LED , No ,No,Li-Po,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+4.4,18,13.3,2.0,8,16,19,1,3200,512,1.32,1.0,65,3,1920,1080,8,306.5,194.6,16.4,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.5,17,14.0,1.8,8,16,21,1,2400,512,1.17,1.0,50,3,1920,1080,6,322.58,198.12,15.2,1,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+3.9,10,13.3,4.2,8,8,29,1,3200,512,1.27,1.0,65,4,1920,1080,6,306.7,194.5,16.9,1,5.0,2,Windows, LED , Yes ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+4.4,1666,15.6,2.4,8,8,32,1,2666,1000,2.4,1.0,150,3,1920,1080,6,360.0,275.0,25.8,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+3.96,216,15.6,2.1,2,4,32,1,2666,1000,2.2,1.0,48,3,1920,1080,4,360.4,262.0,25.8,1,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,No,yes,HDD,Asus
+4.7299999999999995,88,17.3,2.9,12,8,32,2,2666,1000,4.42,1.0,99,6,2560,1440,6,424.0,332.0,29.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Dell
+3.9799999999999995,1,14.0,2.1,4,4,22,1,2240,1000,1.68,1.0,65,4,1366,768,4,340.0,250.0,23.2,4,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+4.36,387,15.0,1.6,6,2,8,1,2400,1000,1.7,1.0,42,3,1920,1080,6,361.4,243.0,18.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.33,199,13.3,4.2,9,2,16,1,2933,512,1.3,1.0,51,3,1920,1080,6,306.0,194.0,16.9,2,5.0,2,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.3,106,14.0,2.1,4,4,28,1,2666,64,1.65,1.0,65,3,1920,1080,4,321.5,206.0,17.9,2,5.0,2, Google Chrome , LED , Yes ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.239999999999999,286,15.6,2.5999999999999996,8,6,11,1,2906,512,2.142,1.0,64,3,1920,1080,6,365.4,255.8,21.759999999999998,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Dell
+4.2,161,14.0,1.8,8,8,15,1,2666,512,1.58,1.0,41,3,1920,1080,8,322.0,223.0,19.7,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.2,207,15.6,3.0,6,4,14,1,2987,256,1.7,1.0,45,3,1920,1080,4,365.0,240.0,18.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.529999999999999,215,14.0,1.6,6,8,20,1,2400,256,1.3,1.0,65,3,1920,1080,6,325.0,224.66,16.910000000000004,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.35,345,14.0,2.7,4,16,22,1,2133,1000,1.1,1.0,46,4,1920,1080,4,329.0,214.0,12.9,2,4.1,2,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Asus
+4.5,1212,11.6,2.0,2,4,30,1,3733,32,1.08,1.0,45,2,1366,768,2,285.0,192.8,16.8,1,4.2,1, Google Chrome , LED , Yes ,No,Li-Po,No,MediaTek,MediaTek Graphics,Yes,Yes,Yes,no,SSD,HP
+3.9,654,14.0,1.0,6,8,15,1,2666,1000,1.55,1.0,65,3,1920,1080,6,322.7,230.5,17.9,1,4.2,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,yes,HDD,Lenovo
+4.38,570,14.0,1.8,8,8,17,1,3013,512,1.49,1.0,45,3,1920,1080,8,324.73,222.82,18.13,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+3.9199999999999995,96,15.6,2.86,8,8,12,2,3200,512,1.65,1.0,45,3,1920,1080,6,359.0,237.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.4,286,14.0,2.7,4,8,13,1,2666,512,1.47,1.0,65,3,1920,1080,4,324.0,225.0,17.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,HP
+4.2,10,15.6,1.6,6,8,32,2,2133,1000,1.8,1.0,65,4,1920,1080,6,363.4,247.5,17.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.5,4,15.6,2.5,8,4,8,1,2933,512,2.3,1.0,60,4,1920,1080,6,363.06,259.61,26.1,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Lenovo
+4.11,290,15.6,1.2,4,4,14,1,2320,256,1.85,1.0,42,3,1366,768,4,362.2,252.0,20.0,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.3,25,15.6,2.4,8,6,8,1,2666,1000,2.3,1.0,65,3,1920,1080,6,365.0,260.0,25.9,2,4.2,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.5,18,15.6,2.4,8,16,17,1,2960,512,1.7,1.0,45,3,1920,1080,6,365.0,240.0,19.0,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.0,155,13.0,1.6,6,8,22,2,2400,512,1.65,1.0,65,4,1920,1080,6,328.0,229.0,17.9,2,5.0,1,Windows, LED , Yes ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+5.0,1,14.0,1.6,6,2,8,2,2666,512,1.5,1.0,68,3,1920,1080,6,328.6,235.9,18.0,1,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Acer
+4.06,419,13.3,2.7,4,8,18,1,2133,1000,2.1,1.0,48,4,1366,768,4,315.12,224.975,20.7,2,4.2,2,Windows, LED , No ,Yes,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,No,no,HDD,HP
+4.5,2,15.6,2.9299999999999997,8,4,8,1,3200,1000,2.23,1.0,150,3,1920,1080,6,360.0,256.0,23.4,1,5.2,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,HP
+5.0,3,13.3,3.1799999999999997,12,16,21,1,3200,1000,1.24,1.0,65,3,1920,1080,7,309.0,205.0,17.7,1,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+3.8,1434,15.6,2.6,5,8,14,1,2400,1000,1.76,1.0,65,3,1920,1080,2,358.0,242.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,HP
+4.130000000000001,1896,15.6,2.4,8,3,8,1,2400,1000,2.19,1.0,45,3,1920,1080,6,363.0,254.6,23.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.2,1208,15.6,1.1,2,4,19,1,2400,32,1.45,1.0,38,2,1366,768,2,358.0,248.0,15.2,2,4.0,2, Google Chrome , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.31,117,14.0,3.1499999999999995,10,8,16,1,3227,512,1.2,1.0,65,3,1920,1080,6,322.8,212.2,15.9,1,5.2,1,Windows, LCD , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Acer
+4.3,839,11.6,1.6,2,2,24,1,1866,16,1.15,1.0,34,2,1366,768,2,289.56,203.2,17.7,1,4.1,2, Google Chrome , LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Samsung
+3.9,6,15.6,2.3,16,8,16,1,3200,1000,2.57,1.0,114,4,1920,1080,8,360.0,275.0,24.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.3,1618,14.0,1.6,6,2,8,1,2400,512,1.5,1.0,65,2,1920,1080,6,322.0,212.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Asus
+3.6,18,15.6,2.3,3,4,18,1,2133,1000,2.2,1.0,35,2,1366,768,2,387.0,259.08,25.9,2,4.1,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.029999999999999,1501,14.0,2.1,4,8,12,2,2666,256,1.5,1.0,45,3,1920,1080,4,327.0,241.0,19.9,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.1,2133,15.6,2.5,3,8,20,1,2133,1000,1.77,1.0,41,3,1920,1080,4,376.0,246.0,22.5,1,4.2,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,HP
+4.17,88,15.6,2.8,6,4,8,1,2800,512,1.5,1.0,48,4,3840,2160,6,360.0,242.0,16.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,AMD Graphics,Yes,Yes,Yes,yes,SSD,Acer
+4.369999999999999,915,14.0,2.0,12,8,16,1,3200,512,1.4,1.0,45,3,1920,1080,8,324.0,213.0,15.9,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.3,49,12.4,1.0,6,8,24,1,2906,128,1.1,1.0,39,3,1536,1024,6,278.1,205.6,15.7,1,5.0,2,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Microsoft
+4.4,134,14.0,4.2,8,8,32,1,4079,512,1.17,1.0,65,4,1920,1080,6,319.0,208.0,13.9,2,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+3.7,34,14.0,2.6000000000000005,12,16,30,1,3013,1000,1.05,1.0,65,4,1920,1080,8,318.9,206.98,14.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Acer
+4.2,281,15.6,2.1,8,8,28,2,3200,512,1.66,1.0,57,4,1920,1080,6,357.0,233.0,19.9,3,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.1,1553,15.6,1.6,6,8,13,1,2080,1000,1.6,1.0,45,3,1920,1080,6,381.0,251.0,27.2,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+4.6,6,14.0,1.6,6,8,19,1,2133,512,1.19,1.0,50,3,1920,1080,6,319.0,199.0,15.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.270000000000001,437,15.6,1.8,8,2,16,2,2666,512,2.09,1.0,90,6,3840,2160,8,361.2,250.0,19.3,1,5.0,2,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+3.4,9,14.0,2.4,8,8,22,1,3200,512,1.4,1.0,71,4,1920,1080,6,320.0,214.0,18.0,1,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.2,572,15.6,2.1,4,8,16,2,2666,256,1.83,1.0,45,3,1920,1080,4,364.0,249.0,20.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Dell
+3.3,15,14.0,1.0,6,8,12,1,2666,256,1.6,1.0,30,2,1920,1080,6,327.0,241.0,20.0,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+5.0,1,13.3,1.8,8,8,27,1,2666,512,1.29,1.0,65,3,1920,1080,8,311.9,217.2,16.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.0600000000000005,624,14.0,3.15,6,8,12,2,3200,512,1.41,1.0,65,3,1920,1080,4,324.2,215.7,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.2,161,14.0,1.8,8,8,15,1,2666,512,1.58,1.0,41,3,1920,1080,8,322.0,223.0,19.7,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.0,1,15.6,2.4,8,8,32,1,2400,1000,2.3,1.0,135,4,1920,1080,6,363.4,255.0,25.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Acer
+4.3,207,14.0,1.6,6,16,27,1,2373,512,2.6,1.0,80,3,1920,1080,6,319.024,204.978,13.7,2,4.0,2, Google Chrome , LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.0,38,15.6,2.0,3,2,8,1,2400,1000,1.68,1.0,33,3,1920,1080,2,365.0,266.0,21.9,2,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+3.8,28,14.0,2.1,4,4,24,1,2666,1000,1.5,1.0,45,3,1920,1080,4,326.0,230.0,17.9,1,5.0,1, DOS , LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+4.3,25,14.0,4.2,8,2,8,1,3200,512,1.45,1.0,65,3,1920,1080,6,328.0,223.0,17.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Acer
+3.8,73,14.0,1.2,4,4,22,1,2666,1000,1.52,1.0,41,3,1366,768,4,335.0,234.0,19.9,1,5.0,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.21,159,14.0,1.6,2,4,24,1,1760,16,1.7,1.0,45,3,1366,768,2,340.0,236.0,17.8,2,4.0,2, Google Chrome , LED , No ,Yes,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,no,SSD,Acer
+3.65,8,15.6,3.3,16,6,16,1,3200,1000,2.3,1.0,240,4,1920,1080,8,354.0,259.0,22.6,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+3.97,356,14.0,2.1,4,8,21,1,2373,512,2.1,1.0,48,4,1920,1080,4,329.0,242.0,21.9,1,4.0,1, DOS , LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.59,409,14.0,1.8,8,16,30,1,3493,512,1.36,1.0,62,4,2560,1440,8,323.0,218.0,16.0,2,5.0,2,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.19,142,15.6,2.6,12,4,16,1,2933,1000,1.9,1.0,57,3,1920,1080,8,362.15,257.25100000000003,21.200000000000003,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Lenovo
+4.35,272,15.6,2.6,12,4,16,2,2933,512,2.2,1.0,135,3,1920,1080,8,359.0,249.6,24.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Lenovo
+4.369999999999999,235,14.0,1.6,6,8,20,1,2400,512,1.26,1.0,50,3,1920,1080,6,326.0,229.0,18.5,1,4.2,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.5,171,14.0,1.7,6,8,15,1,2639,512,1.3,1.0,65,3,1920,1080,4,319.0,219.0,16.9,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,MSI
+3.95,14,15.6,2.6,6,4,8,1,1600,1000,2.5,1.0,59,6,1920,1080,4,383.0,265.0,25.3,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,yes,HDD,Dell
+3.8,75,15.6,1.2,4,8,24,2,2666,1000,2.2,1.0,84,3,1920,1080,4,340.0,258.0,22.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Dell
+4.2,310,11.6,1.1,4,4,18,1,2320,64,1.2,1.0,45,3,1366,768,2,292.0,199.0,19.5,1,5.0,1, Google Chrome , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.0,1,15.6,1.6,6,2,16,1,2400,1000,1.86,1.0,41,4,1920,1080,6,380.0,253.8,23.8,1,4.0,1, DOS , LED , No ,Yes,Li-Ion,No,Intel,AMD Graphics,Yes,Yes,No,no,HDD,HP
+4.3,527,15.6,2.5,3,8,16,1,2133,2000,2.2,1.0,65,2,1366,768,4,365.91999999999996,251.98000000000002,22.759999999999998,2,4.1,1, DOS , LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,Lenovo
+3.65,8,15.6,3.3,16,6,16,1,3200,1000,2.3,1.0,240,4,1920,1080,8,354.0,259.0,22.6,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+3.5,246,14.0,2.3,4,8,18,1,2160,512,1.25,1.0,37,6,1920,1080,4,318.0,216.0,19.0,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,Avita
+4.6,5,14.0,2.7,5,4,18,1,3200,256,1.5,1.0,42,3,1920,1080,4,324.0,22.0,18.0,1,5.0,2,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Asus
+3.6,12,15.6,2.4,8,8,16,2,2666,1000,1.83,1.0,52,3,1920,1080,6,364.0,249.0,20.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Dell
+4.1,100,15.6,2.3,3,4,32,1,2106,256,1.8,1.0,45,4,1920,1080,2,363.4,247.5,17.9,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Acer
+3.8899999999999997,3,15.6,2.6,5,8,12,1,2400,1000,1.86,1.0,65,2,1920,1080,2,362.2,253.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+3.7,44,15.6,2.3,8,8,16,1,2400,1000,2.3,1.0,52,3,1920,1080,6,360.0,267.0,24.2,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+3.94,18,13.3,1.6,6,8,23,1,2293,512,1.27,1.0,45,6,1920,1080,6,302.0,189.0,18.3,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+3.7699999999999996,255,11.6,1.1,4,4,17,1,2400,64,1.2,1.0,47,3,1366,768,2,297.18,205.74,20.6,2,5.0,2, Google Chrome , LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Acer
+4.4,996,14.0,1.8,8,8,16,1,2400,1000,1.4,1.0,42,3,1920,1080,6,323.0,226.0,18.0,2,4.2,1,Windows, LED , No ,No,Li-Po,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+4.209999999999999,3,13.3,2.5,3,8,19,1,2133,256,1.3,1.0,48,4,1920,1080,4,309.9,213.4,15.2,2,4.1,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.1,18,14.0,3.0,8,4,8,1,3200,512,1.6,1.0,76,4,1920,1080,6,324.0,222.0,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.2,297,15.6,1.6,6,2,32,1,2400,1000,1.8,1.0,65,4,1920,1080,6,359.0,243.0,16.4,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Acer
+4.15,6541,14.0,2.4,3,4,19,1,2133,1000,1.43,1.0,65,3,1920,1080,2,324.0,225.9,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.02,1,15.6,3.0,8,4,8,1,3173,512,2.25,1.0,45,3,1920,1080,6,360.0,252.0,24.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Lenovo
+4.68,104,17.3,2.7,12,4,32,2,2933,512,2.6,1.0,165,4,1920,1080,6,399.0,269.0,24.8,3,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.0,268,15.6,2.5,4,4,15,1,2133,1000,2.2,1.0,45,3,1366,768,2,380.0,258.0,22.7,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,Dell
+3.4,271,14.0,1.2,4,4,24,1,2666,1000,1.51,1.0,65,3,1920,1080,4,324.0,225.9,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+3.96,1364,14.0,2.5,4,4,20,1,2400,1000,2.1,1.0,37,3,1366,768,2,335.0,234.0,19.9,1,4.2,1, DOS , LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,HP
+4.4,617,15.6,2.3,8,4,16,1,2400,1000,2.7,1.0,135,4,1920,1080,6,390.0,266.0,26.8,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,yes,HDD,Acer
+4.17,41,14.0,4.8,12,16,30,1,4266,1000,1.57,1.0,85,4,1920,1080,7,324.0,222.0,17.0,3,5.0,2,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.7,33,14.0,2.4,8,8,28,1,4266,512,1.62,1.0,65,4,1920,1080,6,324.0,222.0,16.9,2,5.0,2,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.1,14,15.6,2.6,12,6,16,2,2933,1000,2.14,1.0,200,6,1920,1080,8,357.9,236.8,18.4,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.3,109,15.6,1.6,6,2,8,2,2400,1000,1.8,1.0,65,3,1920,1080,6,358.0,245.0,17.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.2,34,13.3,1.6,6,8,18,1,2400,512,1.19,1.0,50,3,1920,1080,6,302.0,189.0,16.9,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.1,295,15.6,2.5,3,2,16,1,2400,1000,2.1,1.0,40,4,1366,768,4,380.0,260.3,25.1,1,4.1,1, Ubuntu , LED , No ,Yes,Li-Ion,No,Intel,AMD Graphics,Yes,Yes,Yes,no,HDD,Dell
+4.24,1197,15.6,2.3,16,8,32,1,2666,1000,2.1,1.0,230,4,3840,2160,8,358.0,248.0,19.8,2,5.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,MSI
+4.4,377,15.6,2.3,8,4,16,1,2666,1000,2.1,1.0,56,4,1920,1080,6,380.0,258.0,22.7,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Dell
+4.1,2257,15.6,2.0,3,4,8,2,1600,1000,2.19,1.0,65,4,1366,768,2,384.0,254.0,24.3,2,4.0,1, DOS , LED , No ,Yes,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+3.3,21,15.6,2.6,12,8,32,1,2933,1000,2.3,1.0,58,4,1920,1080,8,363.0,255.0,23.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Acer
+3.7,57,15.6,1.2,6,8,16,2,2400,1000,1.83,1.0,42,3,1920,1080,4,355.0,248.0,17.7,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Dell
+4.1,16,15.6,2.75,9,8,20,1,3066,1000,1.8,1.0,65,3,1920,1080,6,359.8,235.3,18.6,2,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,HDD,Asus
+4.1,96,13.3,1.1,6,8,27,1,3200,512,1.27,1.0,65,4,1920,1080,6,306.0,194.5,16.9,1,5.0,2,Windows, LED , Yes ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.29,170,14.0,3.47,8,8,30,1,4266,512,1.17,1.0,67,4,1920,1080,6,319.0,208.0,13.9,3,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.4,37,15.6,1.6,6,2,8,1,2133,512,1.55,1.0,65,3,1920,1080,6,322.0,230.0,17.9,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.5,190,15.6,3.0,11,8,16,2,3200,1000,2.2,1.0,135,3,1920,1080,6,359.0,249.6,24.9,1,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.5,13249,15.6,2.4,8,8,32,1,2613,512,2.15,1.0,48,3,1920,1080,6,363.0,254.0,23.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Acer
+4.6,1863,15.6,2.6,12,16,32,2,2666,1000,2.4,1.0,150,3,1920,1080,8,360.0,275.0,25.8,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,yes,HDD,Asus
+4.3,153,15.6,2.6,4,4,10,1,2400,512,1.69,1.0,65,3,1920,1080,2,358.5,242.0,17.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,HP
+3.6,20,13.4,1.0,6,8,18,1,2320,512,1.2,1.0,45,3,1920,1080,6,294.0,198.0,12.7,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Dell
+4.0,5,15.6,2.65,12,8,32,1,3200,1000,2.0,1.0,200,4,1920,1080,8,360.0,252.0,19.9,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+3.9,2175,15.6,2.3,3,4,16,1,2400,1000,2.4,1.0,42,3,1366,768,2,380.0,258.0,22.7,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Dell
+3.95,7,15.6,2.7199999999999998,24,8,16,1,3173,1000,2.38,1.0,240,4,2560,1440,8,358.0,267.0,23.4,2,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,MSI
+4.21,16,14.0,2.92,12,4,16,1,3200,1000,1.49,1.0,135,4,1920,1080,8,313.1,224.0,17.9,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,HP
+4.4,2,15.6,1.0,6,2,8,1,2720,512,1.9,1.0,65,2,1920,1080,6,360.0,235.0,22.9,1,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Asus
+4.2,11,15.6,2.0,3,4,16,1,2186,1000,2.15,1.0,45,4,1366,768,2,381.5,250.9,22.5,2,4.0,1,Windows, LED , Yes ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.1,69,14.0,2.3,8,8,12,1,2666,512,1.5,1.0,35,2,1920,1080,6,327.0,241.0,20.0,1,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.1,351,14.0,2.12,6,4,16,1,2666,1000,1.58,1.0,48,3,1920,1080,4,329.0,240.0,20.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Dell
+3.9,14,15.6,2.6,4,4,14,1,2400,256,1.69,1.0,45,3,1366,768,2,358.5,242.0,17.9,1,4.2,1,Windows, LED , Yes ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,HP
+4.17,91,15.6,2.2,16,16,32,2,2933,1000,2.45,1.0,178,6,1920,1080,8,357.9,239.7,22.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+3.9,7,15.6,1.6,6,2,16,1,2133,1000,2.2,1.0,48,2,1366,768,6,378.0,265.0,22.0,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.8,17,15.6,4.2,8,2,8,1,3200,1000,1.66,1.0,57,3,1920,1080,6,356.0,23.3,18.0,2,5.05,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.0,26,15.6,2.2,16,16,32,2,3253,1000,2.3,1.0,230,4,1920,1080,8,363.4,255.0,22.9,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Acer
+4.6,3,15.6,2.6,12,6,16,2,2933,1000,2.3,1.0,209,4,1920,1080,8,360.0,275.0,25.8,3,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+3.5,72,15.6,1.6,6,2,8,1,2133,1000,2.1,1.0,48,4,1920,1080,6,378.01,258.154,22.509999999999998,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,No,no,HDD,Acer
+3.3,3,15.6,2.3,8,4,8,1,2133,1000,2.17,1.0,52,3,1920,1080,6,365.0,256.5,25.4,3,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+3.9,1304,15.6,2.3,5,4,12,1,2400,1000,1.85,1.0,65,2,1366,768,2,362.2,253.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.0,350,15.6,2.5,1,4,13,1,2400,1000,1.77,1.0,41,3,1366,768,2,376.0,246.0,22.5,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,HP
+4.0,421,15.6,2.1,2,4,8,2,1600,500,2.1,1.0,65,4,1366,768,3,384.0,265.0,25.0,2,4.0,2, DOS , LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+3.6,18,14.0,1.6,6,8,22,1,2400,256,1.25,1.0,37,6,1920,1080,6,317.5,215.9,18.8,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Avita
+4.1,552,15.6,2.0,4,8,32,1,2400,1000,2.22,1.0,45,3,1920,1080,4,380.0,258.0,22.7,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,Dell
+4.39,224,14.0,1.6,6,16,17,1,2666,512,1.6,1.0,45,3,1920,1080,6,326.18,230.68,19.28,1,5.0,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.15,116,13.3,3.1999999999999997,8,8,30,1,4266,512,1.3,1.0,64,4,1920,1080,6,305.0,211.0,11.9,1,5.0,2,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+3.97,356,14.0,2.1,4,8,21,1,2373,512,2.1,1.0,48,4,1920,1080,4,329.0,242.0,21.9,1,4.0,1, DOS , LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.1,54,14.0,1.2,4,8,12,2,3200,512,1.8,1.0,37,2,1920,1080,4,360.0,235.0,20.0,2,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.24,898,15.6,2.1,6,8,32,2,2400,512,2.15,1.0,135,3,1920,1080,4,363.4,254.5,23.2,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Acer
+3.7,209,14.0,1.0,6,4,19,1,2506,1000,1.6,1.0,45,2,1366,768,4,331.61,237.15,20.259999999999998,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+4.4,488,15.6,2.4,8,4,32,1,2400,1000,2.3,1.0,52,3,1920,1080,6,365.0,260.0,24.0,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,Lenovo
+4.1,70,15.6,2.1,6,8,14,1,2427,512,1.9,1.0,45,2,1920,1080,4,363.4,250.5,19.9,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Acer
+4.1,211,15.6,4.2,8,8,16,1,2666,1000,1.83,1.0,51,3,1920,1080,6,358.0,242.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+3.7,13,15.6,3.4,12,6,16,1,3200,1000,2.0,1.0,200,4,1920,1080,8,360.0,252.0,19.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+3.5,167,15.6,2.5,3,8,16,1,2133,256,2.22,1.0,38,2,1366,768,4,375.92,254.0,22.8,1,4.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+4.1,7,15.6,2.1,4,4,12,1,2666,256,2.0,1.0,41,2,1920,1080,4,360.0,234.0,19.0,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.4,1035,11.6,1.6,2,4,33,1,1866,64,1.15,1.0,33,2,1366,768,2,288.78,204.21,17.8,1,4.0,2, Google Chrome , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Samsung
+4.16,22,15.6,2.6,12,6,16,1,3200,1000,2.38,1.0,230,4,1920,1080,8,358.0,267.0,23.4,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,MSI
+4.3,20,15.6,3.0,11,8,16,2,3200,1000,2.2,1.0,135,3,1920,1080,6,359.0,249.6,24.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.0,56,15.6,2.0,3,4,16,1,2400,1000,2.1,1.0,40,4,1366,768,2,380.0,260.0,23.6,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Dell
+3.9,70,10.5,1.7,2,8,18,1,2080,128,0.54,1.0,38,2,1920,1080,2,275.0,203.0,57.0,2,4.1,1,Windows, LED , Yes ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Microsoft
+4.119999999999999,63,14.0,2.4,8,8,14,1,3200,512,1.69,1.0,45,3,1920,1080,6,324.0,220.0,18.9,1,5.0,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.15,949,15.6,1.0,6,8,13,1,2666,512,1.85,1.0,45,3,1920,1080,6,362.0,253.0,19.0,1,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.13,1248,15.6,2.4,16,8,32,1,3200,2000,2.35,1.0,187,4,1920,1080,10,360.0,275.0,24.9,4,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Asus
+4.6,13,15.6,2.6,12,4,8,1,2960,1000,1.86,1.0,120,3,1920,1080,8,359.0,254.0,21.7,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,MSI
+4.4,2,15.6,1.0,6,2,8,1,2720,512,1.9,1.0,65,2,1920,1080,6,360.0,235.0,22.9,1,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Asus
+3.6,31,13.3,1.0,6,8,17,1,2666,512,1.3,1.0,65,3,1920,1080,6,306.5,194.6,16.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.47,273,15.6,2.6,12,4,64,2,2666,1000,2.2,2.0,104,6,1920,1080,8,383.0,260.0,29.5,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,MSI
+3.5,65,11.6,1.1,4,4,16,1,2400,16,1.26,1.0,45,3,1366,768,2,302.0,209.0,21.3,2,4.83,2, Google Chrome , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Acer
+4.3999999999999995,3,15.6,1.2,4,4,12,1,2720,256,1.85,1.0,30,2,1920,1080,4,362.0,252.0,20.0,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+3.4,322,15.6,2.6,4,4,12,1,2346,1000,1.85,1.0,35,2,1920,1080,2,363.0,251.0,20.0,1,4.0,1,Windows, LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,Lenovo
+3.7,516,11.6,2.6,3,4,26,1,1893,64,1.32,1.0,53,4,1920,1080,2,299.0,206.0,22.0,1,4.0,2,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Avita
+4.41,162,17.3,2.4,23,8,32,1,3200,1000,2.89,1.0,280,4,1920,1080,8,397.0,268.0,27.4,1,5.2,2,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,MSI
+4.66,128,15.6,2.77,12,16,32,2,3200,1000,4.0,1.0,180,4,1920,1080,6,380.0,300.0,80.0,2,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.209999999999999,205,15.6,3.0,6,8,15,1,2933,256,1.8,1.0,65,3,1920,1080,4,359.0,235.0,19.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.6,91,15.6,3.0,11,8,16,1,3200,1000,2.19,1.0,52,3,1920,1080,6,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+3.6,3,15.6,2.1,8,8,14,1,2453,512,1.8,1.0,45,2,1920,1080,6,360.2,234.9,19.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Asus
+3.9200000000000004,19,16.0,2.8000000000000003,24,8,16,1,3200,2000,1.9,1.0,240,4,2560,1600,8,355.0,243.0,19.9,2,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.3,831,15.6,2.2,4,8,18,1,2400,1000,1.77,1.0,65,3,1920,1080,4,376.0,246.0,22.5,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.4,290,15.6,2.6,12,8,32,1,2666,1000,2.25,1.0,52,3,1920,1080,8,360.0,256.0,23.4,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.3,771,14.0,1.0,12,8,12,1,2773,512,1.5,1.0,45,3,1920,1080,6,328.8,236.0,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Acer
+4.0,429,14.0,2.44,3,4,14,2,2133,1000,1.52,1.0,46,3,1366,768,4,335.0,234.0,19.9,1,4.0,1, DOS , LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,HP
+3.7,60,15.6,2.1,4,4,16,2,2666,1000,1.65,1.0,73,3,1366,768,4,380.0,258.0,20.0,1,5.0,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Dell
+4.21,1443,14.0,2.6,4,8,14,1,2560,512,1.69,1.0,49,3,1920,1080,4,324.0,231.0,21.0,1,4.0,1, DOS , LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.17,226,14.0,2.1,4,4,26,1,2266,256,3.0,1.0,58,4,1920,1080,4,325.0,232.0,19.9,2,4.0,1, DOS , LED , No ,Yes,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+4.2,88,14.0,2.3,3,4,17,1,2133,1000,1.47,1.0,41,3,1366,768,2,335.0,234.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,HP
+4.3,383,14.0,4.2,8,2,16,1,3200,512,1.41,1.0,45,3,1920,1080,6,325.0,216.0,17.0,2,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.3,269,17.3,2.1,6,3,32,1,2400,1000,2.6,1.0,64,4,1920,1080,4,399.8,279.4,26.6,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,No,yes,HDD,Asus
+4.3,169,14.0,4.180000000000001,8,2,8,1,3120,512,1.4,1.0,65,3,1920,1080,6,324.0,215.0,19.1,2,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+3.91,18,15.6,2.73,24,16,16,1,3200,1000,2.1,1.0,230,4,2560,1440,8,358.0,248.0,19.8,2,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,MSI
+4.3,112,14.0,1.2,4,8,12,1,1600,256,1.46,1.0,36,2,1920,1080,4,333.0,222.0,16.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Avita
+4.2,64,15.6,2.6,3,4,12,1,2133,1000,2.2169999999999996,1.0,41,3,1366,768,2,379.5,257.88,22.779999999999998,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Dell
+4.17,516,13.3,1.2,4,8,12,1,1600,512,1.37,1.0,38,2,1920,1080,4,315.0,212.0,15.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Avita
+3.7,17,14.0,1.6,6,8,12,1,2293,512,1.6,1.0,65,4,1920,1080,6,328.8,236.0,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Acer
+4.2,270,14.0,1.1,2,4,17,1,2320,64,1.34,1.0,45,2,1366,768,2,322.0,228.0,16.1,1,5.0,1, Google Chrome , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.2,2375,15.6,2.7,3,4,16,1,2133,500,2.2,1.0,45,4,1366,768,2,374.0,258.5,24.7,2,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Acer
+3.9,15,15.6,1.1,4,4,14,1,2400,1000,1.78,1.0,65,3,1366,768,2,376.0,246.0,22.5,1,4.2,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.05,16,15.6,3.85,6,4,15,1,2987,1000,1.65,1.0,45,3,1920,1080,4,363.4,238.5,17.9,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Acer
+3.8699999999999997,18,17.3,2.61,24,16,32,1,3200,2000,2.5,1.0,90,4,2560,1440,8,393.7,264.16,20.3,1,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.2,207,15.6,4.2,8,4,32,2,3200,512,2.3,1.0,48,3,1920,1080,8,359.8,256.0,25.0,1,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.369999999999999,915,14.0,2.0,12,8,16,1,3200,512,1.4,1.0,45,3,1920,1080,8,324.0,213.0,15.9,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.2,101,14.0,1.1,2,4,18,1,1813,64,1.2,1.0,45,2,1366,768,2,322.0,228.0,16.1,1,4.2,1, Google Chrome , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.6,3,14.0,1.2,4,4,22,1,3200,1000,1.5,1.0,45,3,1920,1080,4,326.0,230.0,17.9,2,5.0,2,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+5.0,3,15.6,2.4,8,8,15,1,3200,256,1.65,1.0,65,3,1920,1080,6,359.2,236.5,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.1,1896,15.6,2.4,8,3,8,1,2400,1000,2.19,1.0,45,3,1920,1080,6,363.0,255.0,24.0,2,4.2,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.2,306,15.6,2.3,3,4,16,1,2133,1000,1.77,1.0,41,3,1366,768,2,376.0,246.0,22.5,1,4.2,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,yes,HDD,HP
+4.05,2244,15.6,2.6,1,4,12,1,2240,1000,1.8,1.0,35,2,1920,1080,2,362.2,251.5,19.9,1,4.2,1,Windows, LED , No ,No,Li-Po,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.4,73,15.6,2.5,8,4,8,1,2933,1000,2.3,1.0,104,4,1920,1080,6,363.06,259.61,23.5,4,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.1,888,11.6,1.1,4,4,22,1,2133,500,1.35,1.0,36,2,1366,768,4,291.0,202.0,21.6,1,5.0,2,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Acer
+4.3,1004,15.6,2.5,8,4,8,1,2933,512,2.23,1.0,150,3,1920,1080,6,360.0,256.0,23.4,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.2,63,15.6,2.5,12,4,8,1,2933,512,2.34,1.0,51,3,1920,1080,8,365.5,254.0,21.6,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Dell
+4.3,6,13.3,2.5,3,8,17,1,1866,256,1.11,1.0,45,4,1920,1080,4,325.0,229.0,10.4,2,4.2,2,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,HP
+4.2,636,15.6,2.1,4,8,14,1,2666,1000,1.74,1.0,65,3,1920,1080,4,358.5,242.0,19.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.0,1,14.0,1.8,8,2,16,1,2144,512,1.09,1.0,49,4,1920,1080,8,319.0,205.0,18.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Dell
+4.3,1004,15.6,2.5,8,4,8,1,2933,512,2.23,1.0,150,3,1920,1080,6,360.0,256.0,23.4,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.5,401,13.3,1.1,6,8,24,1,3733,512,1.29,1.0,30,4,2560,1600,6,304.1,212.4,16.1,1,5.0,2,MAC, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Apple
+4.35,198,13.3,1.2,8,16,24,1,1866,512,1.46,1.0,65,6,1920,1080,8,320.0,234.5,15.3,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+3.4,17,15.6,2.5,3,2,32,1,2133,1000,2.2,1.0,35,2,1920,1080,4,381.0,263.0,21.6,2,4.1,1, DOS , LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,Lenovo
+4.409999999999999,120,15.6,2.8,12,2,32,1,3040,512,1.7,1.0,70,3,1920,1080,8,365.0,240.0,18.9,3,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Lenovo
+4.5,2,15.6,1.0,6,2,8,1,2666,1000,1.78,1.0,65,3,1366,768,6,376.0,246.0,22.5,1,5.0,1, DOS , LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,HP
+4.79,151,15.6,2.6,12,6,32,2,2933,1000,2.56,1.0,183,6,1920,1080,8,357.0,268.0,20.0,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Dell
+4.1,167,15.6,2.2,9,4,8,1,2666,1000,2.25,1.0,52,3,1920,1080,6,360.0,263.0,25.0,3,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+3.6799999999999997,15,14.0,1.8,8,2,8,1,2773,1000,1.6,1.0,65,3,1920,1080,8,325.3,232.9,19.9,3,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+3.5,79,15.6,2.0,3,4,12,1,2400,1000,2.0,1.5,46,3,1920,1080,2,381.0,252.0,27.6,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+3.6,30,15.6,1.8,8,6,16,1,2400,256,1.4,1.0,88,4,3240,2160,6,343.0,251.0,23.0,1,4.1,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Microsoft
+4.4,73,15.6,2.5,8,4,8,1,2933,1000,2.3,1.0,104,4,1920,1080,6,363.06,259.61,23.5,4,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.5,2,14.0,1.2,4,4,16,1,2613,512,1.4,1.0,45,3,1920,1080,4,324.0,215.0,19.1,2,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.5,3232,15.6,2.3,8,8,32,2,2400,1000,2.7,1.0,135,4,1920,1080,6,390.0,266.0,26.7,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Acer
+4.4,140,15.6,3.0,8,4,8,1,2933,512,1.96,1.0,180,3,1920,1080,6,359.0,254.0,21.7,1,5.1,2,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,MSI
+3.63,23,15.6,1.8,2,2,8,2,1680,1000,2.3,1.0,65,4,1920,1080,4,384.0,265.0,24.6,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.5,141,12.3,2.6,3,8,15,1,1866,256,0.78,1.0,51,4,2736,1824,4,292.1,201.42,8.38,1,4.2,2,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,SSD,Microsoft
+4.2,561,15.6,2.5,3,4,8,1,2133,1000,2.2,1.0,50,2,1920,1080,4,379.0,260.0,22.9,1,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.16,371,15.6,2.1,4,4,12,1,2293,1000,1.9,1.0,45,2,1920,1080,4,360.0,235.0,22.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.1,228,13.3,3.62,12,2,16,1,2933,1000,1.31,1.0,65,3,1920,1080,7,306.5,194.6,16.9,2,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,HP
+4.249999999999999,355,14.0,2.66,6,4,16,1,3013,256,1.55,1.0,45,3,1366,768,4,328.0,223.0,17.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Acer
+4.2299999999999995,820,15.6,3.0,6,8,13,1,2880,1000,1.6,1.0,49,3,1920,1080,4,325.0,216.0,23.1,2,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.1,62,15.6,1.2,4,8,12,1,2667,1000,1.8,1.0,38,2,1920,1080,4,362.0,253.0,20.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.4,168,15.6,2.6,12,4,16,2,2933,512,2.3,1.0,170,4,1920,1080,8,363.06,259.61,26.1,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Lenovo
+3.3,12,14.0,1.2,4,8,16,1,2666,1000,1.6,1.0,65,3,1920,1080,4,322.7,230.5,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.35,150,15.6,2.6,12,6,32,2,2933,512,2.36,1.0,200,6,1920,1080,8,357.9,239.7,22.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,HP
+4.0,28,14.0,3.0,16,4,8,1,3706,512,1.6,1.0,76,4,1920,1080,8,324.0,220.0,17.9,1,5.1,2,Windows, LED , No ,No,Li-Ion,Yes,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.21,261,15.6,4.0,6,4,15,1,2746,256,1.8,1.0,42,3,1920,1080,4,359.0,235.0,17.9,1,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.2,17,14.0,2.4,8,8,24,1,3200,512,1.72,1.0,53,4,1920,1080,6,322.4024,215.536,17.84,1,5.0,2,Windows, LED , Yes ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Dell
+5.0,5,15.6,2.2,9,4,8,1,2666,256,1.8,1.0,130,3,1920,1080,6,357.0,235.0,17.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Dell
+4.410000000000001,244,14.0,1.6,6,8,32,1,2400,256,1.35,1.0,57,3,1920,1080,6,329.0,226.15,17.5,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.0,14,15.6,2.5,8,4,8,1,2933,1000,2.2,1.0,45,3,1920,1080,6,359.0,250.0,24.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.5,457,14.0,1.8,8,8,32,1,2666,512,1.19,1.0,65,4,1920,1080,6,322.0,222.9,15.9,2,5.0,2,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,MSI
+4.21,4299,15.6,2.3,3,4,18,1,2133,1000,1.86,1.0,65,4,1366,768,2,380.0,253.8,23.8,1,4.2,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.4,36,15.6,2.1,4,4,14,2,2453,512,1.7,1.0,37,3,1920,1080,2,358.0,242.0,20.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,HP
+4.3,383,14.0,4.2,8,2,16,1,3200,512,1.41,1.0,45,3,1920,1080,6,325.0,216.0,17.0,2,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+3.9,6,15.6,2.3,16,8,16,1,3200,1000,2.57,1.0,114,4,1920,1080,8,360.0,275.0,24.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.31,511,14.0,3.41,9,8,16,1,3200,512,1.3,1.0,65,3,1920,1080,6,319.0,220.2,16.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,yes,SSD,MSI
+4.3100000000000005,1,17.3,2.5,6,2,12,2,2133,1000,3.4,1.0,56,6,1920,1080,4,414.02,279.4,35.5,1,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,Asus
+4.7,11,15.6,1.6,6,2,16,1,2133,1000,1.7,1.0,42,3,1920,1080,6,361.4,243.5,17.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,No,no,HDD,Asus
+4.3,12,15.6,2.2,4,4,15,1,2080,1000,2.4,1.0,43,2,1366,768,4,450.0,280.0,30.0,2,4.0,1, DOS , LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.2,96,14.0,1.1,2,4,25,1,2400,64,1.54,1.0,45,2,1366,768,2,337.0,227.0,18.3,2,4.2,2, Google Chrome , LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+3.8,188,15.6,2.4,8,8,15,1,2666,1000,1.83,1.0,45,3,1920,1080,6,363.96,249.0,18.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Dell
+4.26,135,15.6,1.6,6,2,8,1,2400,256,1.7,1.0,42,3,1920,1080,6,361.4,243.5,17.9,2,4.1,1,Windows, LED , No ,No,Li-Po,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Asus
+4.27,511,15.6,2.3,4,4,8,2,2666,512,2.3,1.0,141,4,1920,1080,4,363.4,255.0,23.8,2,5.0,2,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Acer
+4.1899999999999995,88,15.6,1.0,6,2,4,1,2639,512,1.9,1.0,72,3,1920,1080,6,363.4,250.5,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Acer
+4.03,3434,15.6,2.3,3,2,16,2,2133,1000,2.2,1.0,49,2,1366,768,2,379.0,260.0,22.9,1,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.130000000000001,7,15.6,3.15,24,4,16,1,3200,1000,2.25,1.0,150,3,1920,1080,8,359.0,259.0,24.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,MSI
+4.6,72,15.6,2.6,12,16,32,2,2853,1000,2.1,1.0,180,4,1920,1080,8,358.5,255.0,17.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Acer
+3.9299999999999997,650,15.6,1.0,6,8,15,2,2666,1000,1.85,1.0,35,2,1920,1080,6,361.66999999999996,251.19,19.080000000000002,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.359999999999999,13,15.6,2.5,8,4,16,2,2933,512,2.14,1.0,150,6,1920,1080,6,357.9,236.8,18.4,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+3.8,10,14.0,2.4,8,16,28,1,3200,512,1.43,1.0,65,4,1920,1080,6,320.0,214.6,17.7,1,5.0,2,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+3.8,19,14.0,2.2,4,4,22,1,2133,1000,1.67,1.0,30,2,1920,1080,4,330.75,230.84,20.770000000000003,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+3.69,267,14.0,1.6,6,4,18,1,2320,1000,1.68,1.0,65,4,1366,768,6,340.0,250.0,23.2,2,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+4.22,929,14.0,1.6,6,8,22,1,2666,500,1.77,1.0,64,4,1920,1080,6,325.0,232.0,21.0,3,5.0,1, DOS , LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.0,429,14.0,2.44,3,4,14,2,2133,1000,1.52,1.0,46,3,1366,768,4,335.0,234.0,19.9,1,4.0,1, DOS , LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,HP
+4.3,593,14.0,2.2,4,8,16,1,2400,1000,1.3,1.0,42,3,1920,1080,4,326.0,226.0,18.8,2,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.3,504,14.0,1.2,4,8,14,1,2666,256,1.6,1.0,65,3,1920,1080,4,322.7,230.0,17.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.4,9,12.0,1.1,4,8,16,1,1866,128,1.2,1.0,46,4,1920,1280,2,300.0,213.0,13.4,1,4.2,1,Windows, LED , Yes ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,yes,HDD,HP
+3.750000000000001,126,15.6,2.4,8,4,16,2,2666,1000,1.83,1.0,51,3,1920,1080,6,364.0,249.0,20.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Dell
+3.8,3,14.0,3.0,8,16,29,1,4266,1000,1.44,1.0,65,4,3840,2160,6,319.4,216.4,16.5,2,5.1,2,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+4.3500000000000005,165,15.6,2.9,8,6,32,2,3200,512,2.3,1.0,96,3,1920,1080,8,359.0,256.0,24.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.4,7310,14.0,2.1,6,8,12,2,2400,512,1.5,1.0,45,2,1920,1080,4,322.0,212.0,19.0,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.26,1561,15.6,4.2,8,8,32,2,2666,1000,1.78,1.0,105,3,1920,1080,6,490.0,471.0,18.5,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.23,146,16.9,2.6,24,16,32,2,3200,1000,2.89,1.0,239,4,1920,1080,8,397.0,268.0,27.4,1,5.2,2,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,MSI
+3.9200000000000004,19,16.0,2.8000000000000003,24,8,16,1,3200,2000,1.9,1.0,240,4,2560,1600,8,355.0,243.0,19.9,2,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.38,187,14.0,2.4,8,16,19,1,3200,512,1.4,1.0,65,3,1920,1080,6,324.0,215.0,17.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.529999999999999,1404,17.3,2.6,12,8,32,1,2400,1000,2.6,1.0,180,6,1920,1080,8,397.0,268.0,29.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,MSI
+4.32,412,17.3,2.6,12,6,16,2,3093,1000,2.24,1.0,66,3,1920,1080,8,320.0,210.0,20.0,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.3,597,15.6,2.4,8,4,8,1,2603,1000,1.86,1.0,120,3,1920,1080,6,359.0,259.0,21.7,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,MSI
+3.9,62,15.6,1.6,6,8,16,1,2133,1000,2.0,1.0,65,4,1920,1080,6,370.5,255.0,18.9,1,4.1,1, Linux , LED , No ,Yes,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Acer
+4.0,87,14.0,2.1,4,4,20,1,2666,1000,1.6,1.0,45,3,1920,1080,4,324.75,226.51,18.860000000000003,1,5.1,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+3.8600000000000003,12,14.0,1.6,6,8,23,1,2480,512,0.95,1.0,65,4,1920,1080,6,320.0,203.0,14.9,1,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.07,22,15.6,2.5,8,4,16,2,2933,512,3.61,1.0,83,6,1920,1080,6,357.9,236.8,18.4,1,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,HP
+4.0,231,15.6,2.0,3,4,18,1,2400,1000,2.4,1.0,45,3,1366,768,2,381.0,256.0,25.4,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Acer
+4.209999999999999,1058,15.6,2.6,4,8,18,2,2400,256,1.96,1.0,42,3,1920,1080,2,364.0,249.0,20.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Dell
+4.26,37,15.6,3.46,8,8,18,2,2666,512,1.7,1.0,45,3,1920,1080,6,358.5,242.0,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+4.209999999999999,53,15.6,1.6,2,2,22,1,1866,16,1.95,1.0,45,3,1366,768,2,383.03,256.03,24.1,2,4.0,2, Google Chrome , LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Acer
+4.5,29,13.0,2.0,6,16,32,1,3733,512,1.4,1.0,61,4,2560,1600,6,304.1,212.4,15.6,2,5.0,2,MAC, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Apple
+4.6,419,15.6,2.6,12,4,32,2,2933,512,2.3,1.0,150,3,1920,1080,8,360.0,275.0,25.8,3,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.59,808,15.6,2.1,6,8,27,1,2373,1000,2.24,1.0,50,3,1920,1080,4,360.2,234.9,22.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.11,249,15.6,2.6,12,6,16,2,2666,1000,2.035,1.0,60,4,1920,1080,8,364.3,273.4,19.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Dell
+3.7,249,15.6,1.2,4,4,32,2,2666,1000,2.2,1.0,78,3,1920,1080,4,340.0,258.0,22.0,1,5.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Dell
+4.109999999999999,483,15.6,2.4,3,2,8,2,1600,500,2.4,1.0,65,4,1366,768,3,381.0,267.0,25.6,2,4.0,2,Windows, LED , No ,Yes,Li-Ion,No,Intel,AMD Graphics,Yes,Yes,No,no,HDD,Dell
+5.0,1,14.0,1.0,6,8,32,1,3200,512,1.43,1.0,54,3,1920,1080,6,321.0,216.0,18.0,1,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Dell
+4.3,189,17.3,2.4,13,4,16,2,3200,512,2.29,1.0,150,3,1920,1080,8,398.0,273.0,25.1,1,5.1,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,MSI
+4.5,229,12.3,2.6,3,4,24,1,2133,128,0.77,1.0,65,4,2736,1824,4,292.1,200.7,8.4,1,4.1,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,SSD,Microsoft
+3.9699999999999998,19,13.3,2.79,12,16,32,1,3760,1000,1.2,1.0,65,4,3840,2160,7,305.0,211.0,13.9,1,5.0,2,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Asus
+3.8,8,15.6,2.6,12,8,16,2,2933,1000,2.36,1.0,200,6,1920,1080,8,357.9,239.7,22.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+3.9899999999999993,8,17.3,2.3,16,8,16,1,3200,1000,2.9,1.0,111,4,1920,1080,8,399.7,293.4,27.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.4,499,14.0,1.0,6,2,32,2,3200,512,1.43,1.0,50,3,1920,1080,6,321.0,216.0,18.0,2,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Dell
+3.7,467,15.6,1.6,6,2,8,1,2666,1000,1.8400000000000003,1.0,42,3,1920,1080,6,380.0,258.0,19.9,1,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,AMD Graphics,Yes,Yes,Yes,no,HDD,Dell
+3.9,29,14.0,3.69,8,8,16,2,3200,512,1.61,1.0,65,3,1920,1080,6,324.0,221.0,18.0,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.4,186,14.0,4.09,12,16,32,1,3680,512,1.17,1.0,65,4,1920,1080,7,319.0,208.0,13.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.0,460,15.6,2.5,1,4,14,1,1866,1000,1.86,1.0,45,4,1366,768,2,380.0,253.8,23.8,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,HP
+4.0,837,14.0,2.4,3,4,14,1,2133,1000,2.2,1.0,30,2,1366,768,2,333.9,243.9,22.369999999999997,1,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.069999999999999,104,14.0,2.4,8,8,12,1,3120,512,1.65,1.0,45,3,1920,1080,6,328.0,236.0,19.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Acer
+4.279999999999999,597,15.6,1.2,4,8,14,1,2666,1000,1.75,1.0,65,3,1920,1080,4,358.5,242.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+3.9,136,15.6,1.6,6,8,12,1,2666,1000,1.7,1.0,65,2,1920,1080,6,362.2,253.4,14.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+5.0,1,15.6,2.5,8,8,32,2,2933,512,2.3,1.0,150,3,1920,1080,6,360.0,275.0,25.8,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.1,49,14.0,1.6,6,8,23,1,2506,512,0.99,1.0,65,4,1920,1080,6,320.0,203.0,14.9,1,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+3.91,560,15.6,1.1,4,4,21,1,2160,1000,1.9,1.0,33,3,1366,768,4,381.0,251.0,27.2,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+4.4,138,15.6,4.2,8,2,8,2,2666,1000,1.83,1.0,60,3,1920,1080,6,364.0,249.0,20.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Dell
+4.26,179,14.1,2.1,8,8,14,1,3200,1000,1.4,1.0,65,3,1920,1080,6,324.0,213.0,15.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,HDD,Asus
+4.6,136,15.6,2.9,12,4,32,2,3200,1000,2.3,1.0,135,4,1920,1080,8,363.4,255.0,23.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Acer
+3.5,4,14.0,1.8,8,2,8,1,2773,1000,1.6,1.0,48,3,1920,1080,8,325.3,232.9,19.9,3,5.0,1, DOS , LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.2,178,14.0,1.6,6,8,14,1,2400,256,1.3,1.0,50,3,1920,1080,6,324.0,225.0,15.9,1,4.1,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.0,112,14.0,1.2,4,4,14,1,3200,256,1.5,1.0,32,2,1920,1080,4,325.0,216.0,22.9,2,4.1,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.499999999999999,291,14.0,1.8,8,8,16,1,3200,512,1.3,1.0,45,3,1920,1080,8,323.18,214.95,17.34,2,5.1,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.0,17,15.6,2.3,6,4,8,2,2400,1000,1.98,1.0,150,3,1920,1080,4,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+3.8899999999999992,486,15.0,2.3600000000000003,8,7,16,1,2666,1000,1.8,1.0,66,3,1366,768,7,380.0,258.0,20.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Dell
+3.8299999999999996,58,14.0,2.3,8,8,14,2,3200,512,1.6,1.0,65,3,1920,1080,6,324.2,237.7,17.9,1,5.0,1, DOS , LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.1,1402,15.6,2.6,4,8,15,1,2400,1000,1.82,1.0,41,3,1920,1080,2,358.0,242.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,yes,HDD,HP
+3.7,209,14.0,1.0,6,4,19,1,2506,1000,1.6,1.0,45,2,1366,768,4,331.61,237.15,20.259999999999998,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+3.8,143,14.0,2.3,5,4,16,1,2400,1000,1.6,1.0,32,2,1920,1080,2,325.0,216.0,23.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.41,141,15.6,2.6,9,4,16,1,2666,1000,2.26,3.0,150,4,1920,1080,6,360.0,254.0,18.7,2,5.0,2,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+3.6,159,14.0,2.6,5,4,16,2,2400,1000,1.59,1.0,44,3,1366,768,2,329.0,240.0,20.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,yes,HDD,Dell
+4.7,3,15.6,2.6,12,4,16,1,2666,1000,2.3,1.0,52,3,1920,1080,8,365.0,260.0,25.9,3,4.2,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.459999999999999,362,15.6,2.9,8,4,32,1,3200,512,2.3,1.0,153,4,1920,1080,8,359.0,256.0,24.7,2,5.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.1,318,14.0,2.4,5,4,17,1,2400,1000,1.5,1.0,45,3,1920,1080,2,323.0,228.0,17.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.7,395,12.3,1.3,8,16,27,1,2160,256,0.79,1.0,56,4,2736,1824,8,292.0,201.0,8.5,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Microsoft
+3.9300000000000006,2,15.6,2.3,8,2,32,1,2400,1000,2.29,1.0,48,4,1920,1080,6,383.54,261.62,25.4,1,4.2,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,Asus
+3.6,443,14.0,1.2,4,4,17,1,3200,256,1.6,1.0,32,2,1920,1080,4,325.0,216.0,19.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.45,146,16.1,3.3,16,4,32,1,3200,512,2.46,1.0,150,4,1920,1080,6,370.0,260.0,23.5,1,5.2,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,no,SSD,HP
+4.3,112,13.3,1.2,4,8,14,1,1600,256,1.37,1.0,34,2,1920,1080,4,212.0,315.0,15.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Avita
+4.0,5,15.6,2.4,8,4,8,1,2666,1000,2.28,1.0,150,3,1920,1080,6,360.0,256.0,23.0,3,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+3.71,796,14.0,1.0,6,8,17,1,2666,1000,1.52,1.0,41,3,1366,768,6,335.0,234.0,19.9,1,5.0,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.05,314,15.6,2.0,3,4,12,1,2133,1000,2.2,1.0,39,3,1366,768,2,379.0,260.0,22.9,2,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.08,1151,15.6,2.3,4,4,12,1,2240,1000,2.0,1.0,45,2,1920,1080,2,360.0,234.0,19.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.5,361,15.6,2.5,8,4,8,2,2933,512,2.3,1.0,146,3,1920,1080,6,359.0,256.0,25.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.1,2077,14.0,2.0,3,4,18,1,2133,1000,1.7,1.0,47,3,1920,1080,2,336.0,232.0,20.9,1,4.0,1,Windows, LED , Yes ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.5200000000000005,1604,17.3,2.3,8,8,32,1,2400,1000,3.27,1.0,90,6,1920,1080,6,403.86,297.18,24.8,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Dell
+4.36,339,15.6,2.8,6,4,32,1,2400,1000,2.62,1.0,74,6,1920,1080,4,384.9,274.73,25.4,3,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,Dell
+4.21,1749,14.0,2.1,4,4,14,1,2560,512,1.5,1.0,45,3,1920,1080,4,327.0,241.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,yes,SSD,Lenovo
+4.5,40,13.3,1.2,4,8,18,1,1600,256,1.12,1.0,45,4,1920,1080,4,324.6,229.6,9.98,2,4.1,2,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.37,3376,13.3,1.6,6,8,28,1,2133,256,1.46,1.0,40,3,1366,768,6,322.0,224.2,18.8,2,4.1,2,Windows, LED , Yes ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.54,2487,15.6,2.9,8,4,32,2,3200,1000,2.3,1.0,149,3,1920,1080,8,359.0,256.0,24.7,3,5.2,1,Windows, LCD , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.3,189,17.3,2.4,13,4,16,2,3200,512,2.29,1.0,150,3,1920,1080,8,398.0,273.0,25.1,1,5.1,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,MSI
+4.7,170,13.3,2.39,10,8,22,1,3386,512,1.4,1.0,61,4,2560,1600,8,304.1,212.4,15.6,2,5.0,2,MAC, LED , No ,No,Li-Po,Yes,Apple,Intel Graphics,Yes,Yes,Yes,yes,SSD,Apple
+4.5,23,14.0,3.0,12,6,16,1,3200,1000,1.7,1.0,76,4,2560,1440,8,324.0,220.0,19.9,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.2,5,15.6,1.7,3,4,16,2,1707,1000,2.4,1.0,65,4,1366,768,4,384.0,265.0,25.0,2,4.0,1, DOS , LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.4,3,15.6,1.2,4,4,12,1,2720,256,1.85,1.0,30,2,1920,1080,4,362.0,252.0,20.0,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.2,52,14.0,3.0,8,4,8,1,3200,512,1.6,1.0,76,4,1920,1080,6,324.0,222.0,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+5.0,5,15.0,1.9,8,6,16,1,1866,512,1.9,1.0,95,4,3240,2160,6,342.9,250.69,22.8,2,4.1,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Microsoft
+4.3,246,14.0,1.0,6,8,15,1,2666,1000,1.51,1.0,65,3,1920,1080,6,324.0,225.0,19.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,HP
+4.2,50,14.0,2.1,4,8,14,1,2666,128,1.65,1.0,60,3,1920,1080,4,321.5,206.0,17.9,1,5.0,1, Google Chrome , LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.08,1514,10.1,2.0,3,2,22,1,1600,32,1.8,1.0,33,2,1600,900,4,271.881,194.16379999999998,30.990000000000002,2,4.1,2,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+3.7,87,14.0,1.8,8,16,26,1,2400,1000,1.25,1.0,37,4,1920,1080,8,371.5,215.9,18.8,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Avita
+3.8,3159,12.5,1.1,2,4,19,1,1600,64,1.14,1.0,30,2,1920,1080,2,299.0,199.5,14.8,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Avita
+3.7299999999999995,733,15.6,1.6,6,8,18,1,2400,1000,2.08,1.0,41,3,1366,768,6,376.0,246.0,22.5,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,yes,HDD,HP
+4.3,36,14.0,2.2,4,4,18,1,2133,1000,1.67,1.0,30,2,1920,1080,4,330.9,232.38000000000002,21.250000000000004,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.8,6,15.6,2.5,12,4,16,1,2933,1000,2.34,1.0,51,3,1920,1080,8,365.5,254.0,21.6,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Dell
+3.7,67,14.0,2.3,2,4,32,2,2106,1000,1.8,1.0,58,4,1366,768,2,340.0,245.0,24.0,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Acer
+3.9899999999999998,22,15.6,2.8,12,16,27,1,3413,1000,3.06,1.0,180,4,1920,1080,7,354.83,228.09,11.9,2,5.1,2,Windows, AMOLED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Samsung
+4.1,1841,15.6,1.6,6,8,12,1,2133,1000,2.0,1.0,65,3,1920,1080,6,381.0,252.0,27.2,2,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+4.2,180,15.6,2.3,3,4,21,1,2133,1000,1.77,1.0,41,4,1366,768,2,376.0,246.0,22.5,1,4.2,1, DOS , LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,HP
+4.4,81,14.0,1.8,8,16,20,1,2666,1000,1.69,1.0,65,3,1920,1080,8,325.0,232.0,18.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+3.9,5538,15.6,2.6,4,4,12,1,2133,1000,1.85,1.0,65,2,1920,1080,2,362.0,251.0,19.9,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.35,198,13.3,1.2,8,16,24,1,1866,512,1.46,1.0,65,6,1920,1080,8,320.0,234.5,15.3,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+4.1,539,15.6,1.2,4,4,12,2,3200,1000,1.9,1.0,45,2,1920,1080,4,360.0,235.0,22.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.07,78,15.6,2.8,2,4,8,1,2133,500,2.1,1.0,30,3,1366,768,2,381.0,261.62,22.8,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,Lenovo
+3.8699999999999997,18,17.3,2.61,24,16,32,1,3200,2000,2.5,1.0,90,4,2560,1440,8,393.7,264.16,20.3,1,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.1899999999999995,1420,14.0,2.3,4,4,20,1,2480,256,1.9,1.0,70,3,1920,1080,2,325.0,216.0,19.0,2,4.46,1,Windows, LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,No,Yes,no,SSD,Asus
+4.16,60,15.6,2.5,8,4,8,1,2933,1000,2.2,1.0,135,3,1920,1080,6,359.0,250.0,25.0,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.0,43,14.0,1.6,6,8,14,1,2666,512,1.77,1.0,45,3,1920,1080,6,325.0,232.0,21.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.31,320,14.0,1.2,4,8,13,1,2666,256,1.5,1.0,65,3,1920,1080,4,325.0,230.0,16.9,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Acer
+4.1899999999999995,142,15.6,2.5,8,4,8,1,2933,512,2.34,1.0,51,3,1920,1080,6,365.5,254.0,21.6,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Dell
+3.59,7,15.6,3.3,16,12,16,1,3173,1000,2.5,1.0,280,4,2560,1440,8,354.0,256.0,22.6,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.5,4,15.6,1.0,6,4,14,1,2666,1000,1.85,1.0,58,2,1920,1080,6,362.2,252.0,20.0,1,4.2,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+3.4,271,14.0,1.2,4,4,24,1,2666,1000,1.51,1.0,65,3,1920,1080,4,324.0,225.9,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.02,5,15.6,3.1,8,4,16,1,2693,1000,1.5,1.0,48,4,3840,2160,6,360.0,242.0,16.9,1,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,AMD Graphics,Yes,Yes,Yes,yes,HDD,Acer
+4.43,16,15.6,3.0,8,4,8,1,3200,1000,2.3,1.0,60,4,1920,1080,6,363.0,260.0,24.0,2,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+3.6,31,13.3,1.0,6,8,17,1,2666,512,1.3,1.0,65,3,1920,1080,6,306.5,194.6,16.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+3.3,96,15.6,2.5,3,2,16,1,2133,1000,2.1,1.0,65,4,1920,1080,4,381.6,263.0,20.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Acer
+4.2,63,14.0,1.0,6,8,15,2,3200,1000,1.5,1.0,32,2,1920,1080,6,325.0,216.0,22.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+3.9,91,15.6,1.0,6,4,32,1,2666,1000,2.2,1.0,82,3,1920,1080,4,380.0,285.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Dell
+4.16,371,15.6,2.1,4,4,12,1,2293,1000,1.9,1.0,45,2,1920,1080,4,360.0,235.0,22.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.07,630,15.6,1.2,4,8,12,1,2666,1000,1.85,1.0,35,2,1920,1080,4,362.2,253.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.2,439,15.6,1.6,6,8,13,1,2560,1000,1.85,1.0,52,2,1920,1080,6,362.2,253.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.629999999999999,178,15.6,2.7100000000000004,12,16,32,2,2933,512,2.3,1.0,200,4,1920,1080,6,359.0,256.0,24.5,2,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.2,2,14.0,1.6,6,8,18,1,2400,1000,1.65,1.0,41,3,1920,1080,6,324.0,222.9,20.5,1,4.2,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,HP
+4.1,179,12.3,1.1,6,8,24,1,2346,128,0.77,1.0,48,4,2736,1824,6,292.0,201.0,8.5,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Microsoft
+4.0,248,15.6,2.6,5,4,12,1,2320,1000,1.9,1.0,45,2,1920,1080,2,363.4,250.5,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Acer
+3.9199999999999995,96,15.6,2.86,8,8,12,2,3200,512,1.65,1.0,45,3,1920,1080,6,359.0,237.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.3,58,14.0,4.2,8,8,14,1,2666,512,1.64,1.0,57,3,1920,1080,6,328.0,240.0,20.0,1,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Dell
+3.6,3,15.6,2.1,8,8,14,1,2453,512,1.8,1.0,45,2,1920,1080,6,360.2,234.9,19.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.3,219,15.6,2.4,8,4,32,1,2666,512,2.33,1.0,51,3,1920,1080,6,365.5,254.0,21.6,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Dell
+3.8,73,14.0,1.2,4,4,22,1,2666,1000,1.52,1.0,41,3,1366,768,4,335.0,234.0,19.9,1,5.0,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.180000000000001,462,14.0,4.0,1,16,17,1,3200,512,1.6,1.0,45,3,1920,1080,8,326.55,229.15,18.86,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+3.9,66,15.6,2.6,5,4,16,1,2320,1000,1.9,1.0,45,3,1366,768,2,363.4,247.5,19.5,2,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.3,8,14.0,1.8,8,2,8,1,2666,512,1.4,1.0,65,3,1920,1080,8,324.9,213.5,15.9,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.299999999999999,125,15.6,3.3200000000000003,6,4,12,1,2907,256,1.7,1.0,45,2,1920,1080,4,363.4,238.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Acer
+4.14,3,17.3,2.6,3,16,32,1,3200,1000,2.8,1.0,240,4,1920,1080,8,399.0,272.0,18.7,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.1,25,15.6,1.7,6,4,16,2,2666,256,1.83,1.0,53,3,1920,1080,4,364.0,249.0,20.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Dell
+4.5,916,14.0,1.6,6,8,20,1,2666,512,1.58,1.0,53,3,1920,1080,6,322.0,223.0,19.7,2,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.1,99,13.3,3.19,12,16,30,1,3386,1000,1.27,1.0,65,4,1920,1080,7,306.7,194.5,16.9,1,5.0,2,Windows, LED , Yes ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.050000000000001,66,15.6,3.3,16,4,16,1,3200,512,1.98,1.0,52,3,1920,1080,6,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.8,4,15.6,2.6,12,4,32,1,2400,1000,2.4,1.0,51,6,1920,1080,8,381.0,261.62,24.5,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,MSI
+4.5,15,15.6,3.0,11,8,32,2,3200,512,2.5,1.0,133,3,1920,1080,6,356.0,234.0,18.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Dell
+4.16,22,15.6,2.6,12,6,16,1,3200,1000,2.38,1.0,230,4,1920,1080,8,358.0,267.0,23.4,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,MSI
+3.4,51,15.6,2.4,8,3,8,1,2400,1000,2.19,1.0,135,3,1920,1080,4,363.0,254.6,23.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.26,1044,14.0,1.0,6,8,16,2,2666,512,1.36,1.0,52,3,1920,1080,6,323.6,228.0,17.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.6,11775,15.6,2.3,8,8,32,2,2400,1000,2.5,1.0,135,4,1920,1080,6,390.0,266.0,26.7,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Acer
+4.069999999999999,171,14.0,1.0,6,8,32,1,3733,512,1.35,1.0,45,4,1920,1080,6,323.0,208.0,16.5,1,5.0,2,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.0,2795,11.6,1.1,4,2,20,1,2133,32,0.99,1.0,33,2,1366,768,2,286.0,193.0,16.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.0,19,15.6,1.2,4,4,13,2,2666,512,1.74,1.0,65,3,1920,1080,4,358.0,242.0,19.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+4.28,732,11.6,1.1,2,4,32,1,2000,32,1.0,1.0,45,2,1366,768,2,286.0,199.0,17.3,1,4.0,1, Google Chrome , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.0,206,15.6,1.8,8,2,16,1,2133,256,2.22,1.0,65,4,1920,1080,6,381.5,262.89,20.8,2,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,Acer
+4.0200000000000005,1738,15.6,1.6,6,8,32,1,2400,512,1.75,1.0,57,4,3840,2160,6,365.8,248.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+5.0,1,14.0,1.0,6,8,32,1,3200,512,1.43,1.0,54,3,1920,1080,6,321.0,216.0,18.0,1,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Dell
+3.6,385,15.6,1.0,6,4,12,1,2133,1000,1.85,1.0,65,3,1920,1080,6,362.2,253.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+3.8,2263,15.6,1.2,4,4,12,1,2666,1000,1.85,1.0,65,2,1366,768,4,362.2,251.5,19.9,1,5.0,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.4,336,15.6,2.6,12,4,8,1,2400,1000,2.5,1.0,51,4,1920,1080,8,365.0,254.0,21.6,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Dell
+3.4,271,14.0,1.2,4,4,24,1,2666,1000,1.51,1.0,65,3,1920,1080,4,324.0,225.9,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.4,140,15.6,3.0,8,4,8,1,2933,512,1.96,1.0,180,3,1920,1080,6,359.0,254.0,21.7,1,5.1,2,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,MSI
+3.9499999999999993,716,15.6,2.6,1,4,11,1,2133,1000,1.85,1.0,35,2,1366,768,2,362.0,251.0,21.0,1,4.12,1,Windows, LED , No ,Yes,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.3,117,15.0,2.4,8,4,8,1,2773,1000,2.14,1.0,150,3,1920,1080,6,359.0,248.0,21.9,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.3,51,14.0,4.0,12,8,14,1,3200,512,1.4,1.0,50,3,1920,1080,6,324.9,213.5,15.9,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Asus
+3.9300000000000006,6,15.6,1.0,6,8,14,1,2533,512,1.8,1.0,45,2,1920,1080,6,360.2,234.9,19.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.4,1008,15.6,2.4,8,4,8,1,2800,512,2.14,1.0,150,3,1920,1080,6,359.0,248.0,21.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+3.849999999999999,164,15.6,2.8,6,4,32,1,2400,1000,2.2,1.0,41,6,1920,1080,4,383.0,260.0,22.0,1,4.2,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,MSI
+4.4,356,15.6,1.6,2,4,22,1,2133,32,2.4,1.0,45,3,1366,768,2,381.0,256.0,22.9,2,4.1,2, Google Chrome , LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.13,2,13.4,3.0,20,32,32,1,4213,1000,1.3,1.0,100,4,3840,2400,8,299.0,222.0,15.8,1,5.1,2,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+3.8699999999999997,39,15.6,2.6,12,6,32,2,2933,1000,2.36,1.0,200,6,1920,1080,8,357.9,239.7,22.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,HP
+4.26,1103,14.0,1.6,6,8,23,1,2666,256,1.69,1.0,45,3,1366,768,6,335.0,235.0,22.5,2,4.2,2,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+3.6,44,15.6,2.2,3,2,16,2,1600,1000,2.3,1.0,65,4,1920,1080,4,384.0,264.0,24.0,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,AMD Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+4.6,1648,15.6,2.4,8,8,32,1,2666,512,2.4,1.0,150,3,1920,1080,6,360.0,275.0,25.8,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.14,38,17.3,3.3,16,6,8,1,3147,1000,2.7,1.0,240,4,1920,1080,8,395.0,282.0,23.4,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+3.7,3,15.6,3.0,11,8,16,1,3200,1000,2.04,1.0,150,3,1920,1080,6,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.04,497,15.6,2.4,3,4,20,1,2400,1000,2.23,1.0,45,4,1366,768,2,381.6,259.0,23.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.13,215,15.6,3.0,6,8,13,1,3067,512,1.65,1.0,45,3,1920,1080,4,359.0,236.0,20.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.23,146,16.9,2.6,24,16,32,2,3200,1000,2.89,1.0,239,4,1920,1080,8,397.0,268.0,27.4,1,5.2,2,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,MSI
+3.8,4,13.3,2.8,12,16,28,1,3493,1000,1.14,1.0,65,4,1920,1080,8,304.2,203.0,13.9,1,5.0,2,Windows, OLED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Asus
+4.3,1145,15.6,2.6,5,8,16,2,2400,256,1.83,1.0,45,3,1920,1080,2,364.0,249.0,20.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Dell
+4.37,72,15.6,3.31,24,4,16,1,3173,512,2.25,1.0,150,3,1920,1080,7,359.0,259.0,23.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,MSI
+3.66,9,15.6,2.3,16,8,16,1,3200,1000,1.9,1.0,76,4,1920,1080,8,359.9,252.0,18.8,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+4.17,71,14.0,1.8,8,2,16,1,2400,512,1.19,1.0,50,4,1920,1080,6,322.0,222.0,15.9,1,5.0,2,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,MSI
+4.0,13,13.3,1.6,6,8,23,1,2400,256,1.32,1.0,61,4,1920,1080,6,308.8,217.9,14.5,1,5.0,2,Windows, LED , Yes ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.24,172,14.0,1.6,6,2,8,1,2426,512,1.6,1.0,65,3,1920,1080,6,325.3,232.9,19.9,3,5.0,1, DOS , LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.459999999999999,362,15.6,2.9,8,4,32,1,3200,512,2.3,1.0,153,4,1920,1080,8,359.0,256.0,24.7,2,5.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.3199999999999985,234,13.3,2.8,12,8,27,1,3360,512,0.87,1.0,65,4,1920,1080,7,304.4,199.8,11.2,2,5.1,1,Windows, AMOLED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Samsung
+4.29,522,15.6,2.9,8,4,8,1,3147,512,2.1,1.0,150,4,1920,1080,8,354.0,259.0,20.6,3,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+3.9799999999999995,273,15.6,3.4,1,4,12,1,2400,1000,1.85,1.0,35,2,1920,1080,2,362.91999999999996,248.44,20.35,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+3.5,8,14.0,2.1,6,8,12,2,2400,1000,1.5,1.0,53,2,1920,1080,4,325.4,216.0,19.9,2,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Asus
+3.5,2,15.6,2.4,8,8,16,2,2666,1000,1.83,1.0,52,3,1920,1080,6,364.0,249.0,20.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Dell
+4.5,190,15.6,3.0,11,8,16,2,3200,1000,2.2,1.0,135,3,1920,1080,6,359.0,249.6,24.9,1,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.5,6238,15.6,2.4,8,8,32,1,2666,1000,2.4,1.0,150,3,1920,1080,6,360.0,275.0,25.8,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.029999999999999,286,15.6,2.1,6,4,8,2,2400,1000,1.98,1.0,150,3,1920,1080,4,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+3.6,41,15.6,1.6,6,2,8,1,2240,1000,1.8,1.0,52,3,1920,1080,6,358.0,245.0,17.0,2,4.0,1,Windows, LED , No ,Yes,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+3.8,17,15.6,3.3,16,4,32,1,3200,1000,2.1,1.0,200,4,1920,1080,6,354.0,259.0,20.7,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.3,3,15.6,2.3,3,4,8,1,2133,1000,2.2,1.0,41,3,1920,1080,2,378.0,260.0,22.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.67,2443,15.6,2.5,8,4,32,2,2933,512,2.3,1.0,150,3,1920,1080,6,360.0,275.0,25.8,3,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.3500000000000005,165,15.6,2.9,8,6,32,2,3200,512,2.3,1.0,96,3,1920,1080,8,359.0,256.0,24.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.2,79,15.6,2.5,8,4,8,1,2933,1000,2.36,1.0,150,3,1920,1080,6,357.9,239.7,22.5,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+3.96,1722,14.0,3.4,4,8,14,2,3120,512,1.6,1.0,45,3,1366,768,4,331.61,229.21999999999997,18.450000000000003,1,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.1,10992,14.0,2.3,3,4,18,1,2133,1000,1.47,1.0,41,3,1366,768,2,335.0,234.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.07,22,15.6,2.5,8,4,16,2,2933,512,3.61,1.0,83,6,1920,1080,6,357.9,236.8,18.4,1,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,HP
+4.28,144,15.6,2.6,4,8,14,1,2853,256,1.7,1.0,45,3,1920,1080,4,365.0,240.0,18.9,3,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.12,142,14.0,1.8,8,4,16,1,2666,1000,1.41,1.0,59,3,1920,1080,8,323.0,214.6,17.9,2,5.0,1,Windows, LED , Yes ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,HP
+4.42,82,13.3,3.0,4,8,26,1,4267,512,0.9,1.0,65,4,2048,1536,6,305.71999999999997,210.56,13.298000000000002,2,5.2,2,Windows, OLED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.3,43,14.0,2.8,12,2,16,1,3147,1000,1.62,1.0,65,4,1920,1080,8,324.0,222.0,16.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Asus
+4.1899999999999995,5,14.0,1.2,4,8,14,1,2666,512,1.49,1.0,41,3,1920,1080,4,324.0,225.8,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.21,54,15.6,2.5,8,8,32,2,2933,1000,2.3,1.0,117,3,1920,1080,6,366.0,366.0,22.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Dell
+4.0,1,15.6,2.2,9,16,32,1,2666,512,2.1,1.0,65,4,1920,1080,6,360.0,268.0,15.3,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.2,163,15.6,1.6,6,8,16,1,2400,256,1.77,1.0,41,3,1920,1080,6,376.0,246.0,22.5,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,SSD,HP
+5.0,1,15.6,2.8899999999999997,12,8,32,2,3200,1000,2.3,1.0,180,4,1920,1080,6,359.0,256.0,24.5,3,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.4,486,14.0,1.1,2,4,35,1,2400,32,1.5,1.0,35,4,1920,1080,2,323.0,232.0,17.0,2,4.2,2, Google Chrome , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Acer
+4.4399999999999995,38,15.6,3.1,8,4,32,1,3200,512,2.0,1.0,180,4,1920,1080,6,360.0,252.0,19.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.4,707,15.6,2.6,12,8,16,2,2933,1000,2.2,1.0,135,3,1920,1080,8,359.0,249.6,24.9,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.0,742,15.6,2.6,5,4,14,1,2400,1000,1.74,1.0,65,3,1920,1080,2,358.5,242.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,HP
+4.09,108,15.6,2.1,8,8,13,1,3013,512,1.75,1.0,60,3,1920,1080,6,360.0,234.0,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,HP
+3.5,46,14.0,2.6,4,4,18,1,2400,1000,1.6,1.0,35,2,1366,768,2,327.1,241.0,19.9,2,4.0,1, DOS , LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+3.6,956,14.0,1.2,4,4,22,1,2666,1000,1.51,1.0,65,3,1920,1080,4,324.0,225.0,19.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.220000000000001,85,13.4,2.66,16,4,16,1,3120,1000,1.3,1.0,74,2,1920,1080,8,299.0,222.0,15.8,1,5.1,2,Windows, LED , Yes ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+3.8600000000000003,12,14.0,1.6,6,8,23,1,2480,512,0.95,1.0,65,4,1920,1080,6,320.0,203.0,14.9,1,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.7,34,16.1,2.5,8,4,8,1,2933,1000,2.35,1.0,150,3,1920,1080,6,370.0,262.5,23.5,2,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.4,2209,11.6,1.1,4,4,27,1,2400,32,1.05,1.0,45,2,1366,768,2,281.5,192.8,16.8,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+3.7,8059,15.6,1.3,1,4,16,1,1600,500,2.0,1.0,45,3,1366,768,2,381.0,252.0,27.2,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,No,no,HDD,Asus
+4.0,5312,15.6,2.3,3,4,17,1,2133,1000,2.0,1.0,33,3,1366,768,2,381.0,252.0,27.2,2,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+3.95,7,15.6,2.7199999999999998,24,8,16,1,3173,1000,2.38,1.0,240,4,2560,1440,8,358.0,267.0,23.4,2,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,MSI
+3.3,3,15.6,3.1,16,8,16,2,3200,1000,2.3,1.0,240,4,1920,1080,8,354.0,259.0,27.2,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+3.3,9,15.6,4.0,8,8,15,1,3200,512,1.7,1.0,42,3,1920,1080,6,359.0,235.0,17.9,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.6,5,13.3,1.8,8,8,18,1,2133,512,1.19,1.0,50,3,1920,1080,6,302.0,189.0,16.9,1,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+3.6,4,15.6,2.5000000000000004,16,16,16,1,2853,1000,2.37,1.0,154,6,2560,1440,8,357.9,239.7,22.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.0,1588,15.6,2.1,4,8,32,2,2400,1000,2.22,1.0,48,3,1920,1080,4,360.68,261.62,25.4,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,yes,HDD,Asus
+3.9299999999999997,2495,15.6,1.8,8,8,23,1,2400,256,2.36,1.0,105,3,1366,768,6,379.0,253.0,20.7,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+3.7,4,15.6,2.5,8,4,8,1,2933,1000,2.2,1.0,45,3,1920,1080,6,359.0,249.6,24.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.06,20,15.6,3.3,12,6,32,1,3200,1000,2.0,1.0,214,4,1920,1080,7,359.0,256.0,24.7,2,6.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.02,1,15.6,3.0,8,4,8,1,3173,512,2.25,1.0,45,3,1920,1080,6,360.0,252.0,24.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Lenovo
+4.6,483,15.6,1.6,6,8,32,1,2133,1000,1.8,1.0,65,4,1920,1080,6,359.0,243.0,16.9,1,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Acer
+4.26,50,15.6,3.3,12,4,8,1,3200,512,2.25,1.0,45,3,1920,1080,8,360.0,252.0,24.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Lenovo
+4.01,53,14.0,1.8,8,16,30,1,2986,1000,0.99,1.0,66,4,1920,1080,8,320.0,203.0,14.9,1,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Asus
+3.96,18,15.6,2.67,24,8,16,1,3173,1000,2.1,1.0,230,4,2560,1400,8,358.0,248.0,19.8,2,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,MSI
+4.01,619,15.6,1.8,8,8,14,2,2666,1000,2.0,1.0,45,3,1366,768,8,364.9,256.9,19.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+3.9,187,15.6,1.2,4,4,12,1,2666,1000,1.85,1.0,65,2,1920,1080,4,362.2,251.5,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.8,6,15.6,2.5,12,4,16,1,2933,1000,2.34,1.0,51,3,1920,1080,8,365.5,254.0,21.6,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Dell
+4.19,3,13.3,1.6,6,8,22,1,2400,256,1.4,1.0,53,4,1920,1080,6,323.9,219.9,15.8,1,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Dell
+4.279999999999999,516,14.0,1.8,8,16,20,2,3200,512,1.5,1.0,52,3,1920,1080,8,321.5,217.5,17.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.42,41,14.0,2.9,8,4,16,1,3200,1000,1.6,1.0,180,4,1920,1080,8,324.0,220.0,17.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.17,59,15.6,2.5,8,4,8,1,2933,512,1.9,1.0,57,3,1920,1080,6,361.88800000000003,255.89000000000001,22.17,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Lenovo
+3.8,20,13.3,4.2,8,8,17,1,2826,512,1.19,1.0,65,3,1920,1080,6,302.5,233.8,15.9,2,5.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Acer
+4.5,142,15.6,2.6,12,4,32,1,2666,512,2.15,1.0,135,3,1920,1080,8,363.4,254.5,23.2,1,4.1,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Acer
+4.3,402,13.5,2.5,3,8,16,1,1866,256,1.25,1.0,51,4,2256,1504,4,307.3,223.5,15.2,1,4.0,2,Windows, LED , Yes ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Microsoft
+4.41,7,15.6,2.6,12,8,32,2,2666,1000,2.11,1.0,230,4,1920,1080,8,358.0,248.0,19.5,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,MSI
+4.5,381,15.6,3.0,3,4,8,1,3093,512,1.98,1.0,70,3,1920,1080,6,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.3,292,11.6,1.0,2,4,29,1,2400,32,1.25,1.0,46,4,1366,768,2,307.0,199.0,20.6,2,4.2,2, Google Chrome , LED , Yes ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.3,536,15.6,1.2,4,8,14,1,2666,1000,1.77,1.0,65,3,1920,1080,4,358.0,242.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+3.81,521,14.0,1.1,4,4,20,1,2400,32,1.46,1.0,45,2,1366,768,2,325.0,218.0,17.8,1,5.0,2, Google Chrome , LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+3.6100000000000003,54,14.0,2.6,4,4,17,1,2453,1000,1.6,1.0,37,3,1366,768,2,327.1,241.0,19.9,2,4.0,1, DOS , LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.5,1212,11.6,2.0,2,4,30,1,3733,32,1.07,1.0,45,2,1366,768,2,285.0,19.28,16.8,1,4.2,1, Google Chrome , LED , No ,No,Li-Po,No,MediaTek,MediaTek Graphics,Yes,Yes,Yes,no,SSD,HP
+4.5,619,15.6,1.3,8,16,20,1,2666,512,1.85,1.0,45,3,1920,1080,8,361.6,245.6,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+3.3,26,15.6,1.6,6,4,14,1,2400,1000,2.18,1.0,65,3,1920,1080,6,376.0,246.0,22.5,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.3,49,12.4,1.0,6,8,24,1,2906,128,1.1,1.0,39,3,1536,1024,6,278.1,205.6,15.7,1,5.0,2,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Microsoft
+4.01,53,14.0,1.8,8,16,30,1,2986,1000,0.99,1.0,66,4,1920,1080,8,320.0,203.0,14.9,1,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Asus
+4.1,12925,14.0,3.1,1,4,24,1,1866,256,1.47,1.0,65,3,1366,768,2,335.0,234.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,HP
+4.5,303,13.3,1.6,6,8,16,1,2400,512,0.99,1.0,50,3,1920,1080,6,310.0,216.0,13.9,1,4.2,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,No,no,SSD,Asus
+4.1,199,15.6,1.6,6,2,8,1,2293,1000,1.74,1.0,41,3,1920,1080,6,359.0,242.0,20.0,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,HP
+3.6,21,14.0,4.0,8,8,27,1,2960,512,1.26,1.0,67,4,1920,1080,6,319.0,21.0,14.3,1,5.0,2,Windows, LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.4,420,15.6,2.3,8,4,32,1,2666,1000,2.25,1.0,130,4,1920,1080,6,380.0,258.0,22.7,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Dell
+4.449999999999999,246,11.6,1.6,2,4,26,1,1600,16,1.25,1.0,45,3,1366,768,2,293.87,203.96,19.3,1,4.0,2, Google Chrome , LED , Yes ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Acer
+4.2,7033,15.6,1.6,6,2,8,1,2133,1000,2.2,1.0,65,2,1366,768,6,378.0,260.0,22.9,2,4.1,1, DOS , LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.33,153,15.6,2.6500000000000004,12,4,16,1,2906,512,1.75,1.0,69,3,1920,1080,8,365.0,248.0,19.1,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Lenovo
+4.6,15,15.6,2.4,8,4,8,1,2666,512,2.23,1.0,150,3,1920,1080,6,360.0,256.0,23.4,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+3.8,519,14.0,1.1,4,4,20,1,2400,64,1.46,1.0,47,2,1366,768,2,325.7,218.5,17.8,1,5.0,2, Google Chrome , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+3.8,152,14.0,2.1,4,4,22,1,2400,1000,1.5,1.0,45,2,1920,1080,4,322.0,212.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.1,797,11.6,1.1,2,4,29,1,2400,32,0.99,1.0,38,2,1366,768,2,287.02,198.12,17.7,1,4.1,2, Google Chrome , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.17,49,14.0,1.8,8,16,30,1,2853,2000,0.99,1.0,66,4,1920,1080,8,320.0,203.0,14.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Asus
+3.8,68,15.6,2.0,3,4,8,1,2400,1000,1.68,1.0,33,3,1920,1080,2,365.0,266.0,21.9,2,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.130000000000001,1296,15.6,3.0,6,8,13,1,3147,256,1.8,1.0,45,2,1920,1080,4,360.0,235.0,19.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.4,283,15.6,2.670000000000001,12,8,32,2,2666,1000,2.3,1.0,280,6,1920,1080,8,377.0,248.0,27.5,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,MSI
+4.0,10,13.3,4.2,8,8,32,1,2666,512,1.23,1.0,65,4,1920,1080,6,304.0,206.0,16.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Dell
+4.2,281,15.6,2.1,8,8,28,2,3200,512,1.66,1.0,57,4,1920,1080,6,357.0,233.0,19.9,3,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.4,74,14.0,2.1,4,4,20,1,2666,1000,1.59,1.0,65,3,1920,1080,4,324.0,222.9,20.5,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.45,146,16.1,3.3,16,4,32,1,3200,512,2.46,1.0,150,4,1920,1080,6,370.0,260.0,23.5,1,5.2,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,no,SSD,HP
+3.8899999999999997,414,15.6,1.6,6,4,13,1,2320,1000,1.8,1.0,45,3,1920,1080,6,375.0,253.0,22.0,1,4.1,1, DOS , LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.35,1347,14.0,1.2,4,8,13,1,2587,512,1.6,1.0,44,2,1920,1080,4,325.0,216.0,19.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.180000000000001,363,15.6,2.3,3,2,8,2,1600,1000,2.1,1.0,58,4,1366,768,4,380.0,260.0,21.7,2,4.0,1, Ubuntu , LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Dell
+4.249999999999999,187,14.0,1.8,8,16,18,1,2666,1000,1.69,1.0,45,3,1920,1080,8,325.0,232.0,18.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.2,251,12.5,1.1,4,4,8,1,1866,64,1.2,1.0,39,2,1920,1080,2,304.8,210.8,12.7,2,4.0,2, Google Chrome , LED , Yes ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+4.0,17,15.6,2.3,6,4,8,2,2400,1000,1.98,1.0,150,3,1920,1080,4,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.8,17,15.6,4.2,8,2,8,1,3200,1000,1.66,1.0,57,3,1920,1080,6,356.0,23.3,18.0,2,5.05,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+3.4,38,15.6,2.3,8,8,32,1,2666,1000,2.3,1.0,48,3,1920,1080,6,384.0,262.0,25.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+4.3,798,15.6,2.5,8,8,16,2,2933,1000,2.2,1.0,135,3,1920,1080,6,359.0,249.6,24.9,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.08,587,14.0,1.8,8,8,14,1,2400,256,1.46,1.0,36,2,1920,1080,6,333.0,222.0,16.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Avita
+4.18,967,11.6,2.0,3,4,26,1,2533,32,2.65,1.0,41,2,1366,768,3,289.56,205.74,18.7,1,4.2,1, Google Chrome , LED , Yes ,No,Li-Ion,No,MediaTek,ARM Graphics,Yes,Yes,Yes,no,SSD,Acer
+3.7,54,15.6,1.0,6,2,8,2,3200,1000,1.7,1.0,37,2,1920,1080,6,357.2,230.4,19.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+4.3,169,11.6,1.6,2,4,34,1,1866,32,1.15,1.0,30,2,1366,768,2,288.7,204.0,17.8,1,4.0,2, Google Chrome , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,SSD,Samsung
+4.14,4,15.6,2.5,8,4,8,1,2906,1000,2.5,1.0,45,3,1920,1080,6,362.38,254.291,23.4,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.5,2,13.4,3.0,16,4,16,1,3333,1000,1.3,1.0,100,4,1920,1200,8,299.0,222.0,15.8,1,5.1,2,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.6,483,15.6,1.6,6,8,32,1,2133,1000,1.8,1.0,65,4,1920,1080,6,359.0,243.0,16.9,1,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Acer
+4.6,5,15.6,2.6,12,6,32,2,2666,512,2.5,1.0,206,4,1920,1080,8,364.3,273.4,19.9,3,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Dell
+4.2,5,15.6,4.0,6,4,12,1,2987,1000,1.65,1.0,45,3,1920,1080,4,363.4,238.5,17.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.029999999999999,51,15.6,3.0900000000000003,8,8,16,1,3066,1000,1.65,1.0,45,3,1920,1080,6,363.4,238.5,17.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.130000000000001,8,15.6,2.1,4,4,12,1,2666,256,1.9,1.0,37,2,1920,1080,4,360.0,235.0,19.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.2,207,15.6,4.2,8,8,32,2,3200,512,2.3,1.0,48,3,1920,1080,8,359.8,256.0,25.0,1,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.1,56,14.0,4.2,12,8,20,2,3200,512,1.61,1.0,65,3,1920,1080,6,324.0,221.0,18.7,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.3,64,15.6,2.6,12,6,16,1,2666,1000,2.24,1.0,69,6,1920,1080,8,360.0,260.0,20.0,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.24,172,14.0,1.6,6,2,8,1,2426,512,1.6,1.0,65,3,1920,1080,6,325.3,232.9,19.9,3,5.0,1, DOS , LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.1899999999999995,77,14.0,3.84,12,16,32,1,3680,512,1.17,1.0,65,4,1920,1080,6,319.0,208.0,13.9,1,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+3.9899999999999998,24,14.0,2.1,4,4,22,1,2666,1000,1.5,1.0,65,3,1920,1080,4,326.0,230.0,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.5,203,15.6,2.6,4,8,14,1,2400,256,1.69,1.0,45,3,1366,768,2,358.5,242.0,17.9,2,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,HP
+4.1899999999999995,135,14.0,2.1,4,4,16,1,2266,256,1.7,1.0,45,3,1920,1080,4,325.0,232.0,21.0,1,4.0,1, DOS , LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.9,10,15.6,3.0399999999999996,16,4,16,2,3200,512,1.98,1.0,200,3,1920,1080,8,360.0,257.0,23.5,1,4.0,1,Windows, LED , No ,No,Li-Po,Yes,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.35,272,15.6,2.6,12,4,16,2,2933,512,2.2,1.0,135,3,1920,1080,8,359.0,249.6,24.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Lenovo
+4.2,458,14.0,4.2,8,8,18,2,2666,512,1.47,1.0,65,3,1920,1080,6,324.0,225.0,17.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+4.31,511,14.0,3.41,9,8,16,1,3200,512,1.3,1.0,65,3,1920,1080,6,319.0,220.2,16.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,yes,SSD,MSI
+3.8899999999999997,3,15.6,2.6,4,4,22,1,2400,1000,1.8,1.0,45,4,3840,2160,2,362.2,253.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.3,100,13.3,2.8,24,16,27,1,3200,512,1.28,1.0,65,4,2560,1600,8,296.9,208.5,15.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.12,9,15.6,2.3,16,8,16,2,3200,1000,2.25,1.0,80,4,1920,1080,8,359.0,259.0,20.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.0,95,15.6,2.3,8,4,32,1,2400,1000,2.7,1.0,135,4,1920,1080,6,390.0,266.0,26.8,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,yes,HDD,Acer
+4.17,88,15.6,2.8,6,4,8,1,2800,512,1.5,1.0,48,4,3840,2160,6,360.0,242.0,16.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,AMD Graphics,Yes,Yes,Yes,yes,SSD,Acer
+4.3,21,15.6,1.6,2,2,22,1,1600,16,2.0,1.0,45,3,1366,768,2,383.54,256.54,25.4,2,4.1,2, Google Chrome , LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Acer
+4.6,3,13.3,4.8,12,16,28,1,2613,512,1.3,1.0,67,4,1920,1080,8,305.0,211.0,11.9,1,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.15,596,15.6,1.0,6,8,19,1,2666,1000,1.78,1.0,41,3,1366,768,6,376.0,246.0,22.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.1,3,12.5,2.6,3,4,8,2,1600,128,1.5,3.0,45,6,1920,1080,4,317.0,215.0,20.0,1,4.0,1,Windows, LED , Yes ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,yes,HDD,Dell
+4.3,175,15.6,2.1,8,8,13,1,3200,1000,1.65,1.0,65,3,1920,1080,4,359.2,236.5,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.5,545,14.0,4.2,8,8,18,1,3147,512,1.4,1.0,65,3,1920,1080,6,324.0,215.0,19.1,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.02,320,15.6,4.0,6,4,14,1,2746,256,1.8,1.0,65,3,1920,1080,4,359.0,235.0,17.9,2,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.1,119,15.6,2.4,8,8,12,1,2906,512,1.7,1.0,65,3,1920,1080,6,365.0,240.0,18.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.1,6368,15.6,2.0,3,4,16,1,2133,1000,2.2,1.0,30,2,1366,768,2,381.0,254.0,22.1,1,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,Lenovo
+4.5200000000000005,243,14.0,1.8,8,16,30,1,3466,512,1.35,1.0,65,4,1920,1080,8,322.0,217.0,15.5,2,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.3,295,15.6,2.4,8,8,15,1,3200,1000,1.8,1.0,61,3,1920,1080,6,356.0,233.0,18.0,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.369999999999999,203,14.0,3.0,6,8,12,1,3227,512,1.4,1.0,65,3,1920,1080,4,324.0,215.0,17.9,3,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.4,35,15.6,2.5,8,4,8,1,2933,512,2.3,1.0,64,3,1920,1080,6,365.912,257.27200000000005,22.589999999999996,2,4.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Lenovo
+4.5,140,13.3,2.3,6,8,16,1,2133,256,1.37,1.0,61,4,2560,1600,6,304.1,212.4,14.9,2,5.0,4,MAC, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Apple
+4.3,895,15.6,1.0,6,8,16,1,2666,512,1.75,1.0,65,3,1366,768,6,358.0,242.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+4.4,256,15.6,2.5,3,4,32,1,2133,2000,2.2,1.0,35,2,1366,768,4,327.0,237.0,19.2,2,4.1,1,Windows, LED , No ,Yes,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,No,no,HDD,Lenovo
+3.8,2170,15.6,1.2,4,4,12,1,2666,1000,1.85,1.0,65,2,1366,768,4,362.2,251.5,19.9,1,5.0,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+4.4399999999999995,38,15.6,3.1,8,4,32,1,3200,512,2.0,1.0,180,4,1920,1080,6,360.0,252.0,19.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.15,97,15.6,2.1900000000000004,4,8,13,1,2373,1000,1.8,1.0,43,2,1920,1080,4,360.0,235.0,19.9,2,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Asus
+3.4,1280,14.0,1.4899999999999998,6,8,15,1,2666,256,1.46,1.0,41,3,1366,768,6,324.0,225.0,17.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+4.19,1324,14.0,2.3,3,8,16,2,2133,512,1.5,1.0,59,4,1920,1080,4,334.0,232.0,19.4,3,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Dell
+3.9,459,14.0,2.0,3,4,14,1,2133,1000,2.2,1.0,45,2,1366,768,2,338.0,249.0,22.7,2,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.08,40,14.0,3.0,16,4,8,1,3200,512,1.6,1.0,76,4,1920,1080,8,324.0,222.0,18.0,1,5.1,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+3.8299999999999996,19,11.6,1.6,2,2,13,1,1893,32,1.4,1.0,45,4,1366,768,2,292.0,210.0,22.8,1,4.0,2,Windows, LCD , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Acer
+4.31,117,14.0,3.1499999999999995,10,8,16,1,3227,512,1.2,1.0,65,3,1920,1080,6,322.8,212.2,15.9,1,5.2,1,Windows, LCD , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Acer
+4.0,1,15.6,1.0,6,4,10,1,2453,256,1.85,1.0,42,2,1920,1080,6,362.21,243.59,20.330000000000002,2,4.0,1, DOS , LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.3,257,14.0,4.2,8,8,15,1,3200,512,1.4,1.0,65,3,1920,1080,6,324.0,213.0,15.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.1800000000000015,831,14.0,3.0,6,4,14,1,3040,256,1.55,1.0,45,3,1920,1080,4,360.0,235.0,19.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+3.8000000000000007,8,14.0,1.2,4,4,16,2,2666,1000,1.66,1.0,46,3,1366,768,4,340.0,240.0,20.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Dell
+4.5,316,13.3,1.6,4,8,18,1,2133,256,1.25,1.0,50,4,2560,1600,6,304.1,212.4,12.5,1,4.2,2,MAC, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Apple
+4.4,759,15.6,2.3,8,4,32,1,2666,1000,2.5,1.0,64,4,1920,1080,6,384.0,262.0,23.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.04,17,15.6,2.6,4,4,12,1,2400,1000,1.8,1.0,42,2,1920,1080,2,360.0,235.0,19.0,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.0,1,15.6,2.4,8,8,32,1,2400,1000,2.3,1.0,135,4,1920,1080,6,363.4,255.0,25.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Acer
+4.3,151,14.0,2.4,8,8,13,1,3200,512,1.5,1.0,65,3,1920,1080,6,321.5,217.5,20.4,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.14,36,14.0,3.0,16,4,16,1,3200,1000,1.6,1.0,150,4,1920,1080,8,324.0,222.0,17.9,1,5.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.3,25,14.0,4.2,8,2,8,1,3200,512,1.45,1.0,65,3,1920,1080,6,328.0,223.0,17.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Acer
+4.3,149,14.0,1.6,6,8,16,1,2133,1000,1.59,1.0,41,3,1920,1080,6,323.5,224.2,19.7,1,4.2,1,Windows, LED , Yes ,Yes,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,No,yes,HDD,HP
+4.0,10,15.4,2.6,9,4,32,1,2400,512,1.83,1.0,84,4,2880,1800,6,349.3,240.7,15.5,2,5.0,4,MAC, LED , No ,No,Li-Po,Yes,Intel,AMD Graphics,Yes,Yes,Yes,yes,SSD,Apple
+3.3,2,15.6,1.6,2,4,8,2,1600,1000,2.2,1.0,56,4,1366,768,4,378.0,265.0,22.9,1,4.0,1, DOS , LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+3.94,18,13.3,1.6,6,8,23,1,2293,512,1.27,1.0,45,6,1920,1080,6,302.0,189.0,18.3,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.3,2018,15.6,2.2,9,6,16,2,2400,256,2.69,1.0,180,4,1920,1080,6,391.16,266.7,27.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,yes,SSD,Acer
+4.5,187,14.0,2.1,6,8,12,1,2400,1000,1.6,1.0,65,3,1920,1080,4,322.7,230.5,17.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.1899999999999995,62,15.6,3.0,8,4,8,1,3200,1000,1.98,1.0,52,3,1920,1080,6,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.1,64,14.0,1.8,8,2,16,1,2720,512,1.29,1.0,90,3,1920,1080,8,319.0,215.0,15.9,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,No,yes,SSD,MSI
+4.32,26,15.6,2.4,8,8,14,1,2906,512,1.7,1.0,45,3,1920,1080,6,365.0,240.0,18.9,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+3.9,50,15.6,2.1,4,8,32,1,2506,1000,2.3,1.0,135,4,1920,1080,4,363.0,255.0,25.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,yes,HDD,Acer
+3.91,18,15.6,2.73,24,16,16,1,3200,1000,2.1,1.0,230,4,2560,1440,8,358.0,248.0,19.8,2,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,MSI
+3.7,29,15.6,2.5,16,4,16,1,2933,512,2.23,1.0,52,3,1920,1080,8,360.0,256.0,23.4,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+3.7,20,15.6,2.6,12,16,32,1,3200,1000,2.1,1.0,230,4,1920,1080,8,360.0,255.0,20.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.249999999999999,187,14.0,1.8,8,16,18,1,2666,1000,1.69,1.0,45,3,1920,1080,8,325.0,232.0,18.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+3.85,261,14.0,1.6,6,8,15,1,2133,1000,1.7,1.0,52,3,1920,1080,6,327.88,237.16,20.220000000000002,1,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.0,88,13.3,4.2,8,8,30,1,3200,512,1.27,1.0,65,4,1920,1080,6,306.7,194.5,16.9,1,5.0,1,Windows, LED , Yes ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.38,149,15.6,2.84,8,16,18,1,3200,512,1.66,1.0,57,3,1920,1080,6,357.0,233.0,18.0,3,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.1,99,13.3,3.19,12,16,30,1,3386,1000,1.27,1.0,65,4,1920,1080,7,306.7,194.5,16.9,1,5.0,2,Windows, LED , Yes ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.0,12,14.0,1.1,4,4,17,1,2240,64,1.7,1.0,44,3,1920,1080,2,325.12,231.14,19.8,1,4.0,1, Google Chrome , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.51,168,16.1,3.25,16,4,32,1,3200,512,2.48,1.0,200,4,1920,1080,6,370.0,262.0,24.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,no,SSD,HP
+4.2,13,13.3,1.6,6,8,18,1,2133,512,1.27,1.0,50,3,1920,1080,6,302.0,189.0,18.0,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,yes,SSD,Asus
+4.5,261,15.6,2.6,12,16,32,2,2933,1000,2.3,1.0,230,4,1920,1080,8,360.0,275.0,25.8,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+3.7,60,15.6,2.1,4,4,16,2,2666,1000,1.65,1.0,73,3,1366,768,4,380.0,258.0,20.0,1,5.0,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Dell
+3.4,3,15.6,2.4,3,4,32,1,2373,1000,2.39,1.0,45,6,1366,768,2,381.0,259.0,30.5,1,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.3,504,14.0,1.2,4,8,14,1,2666,256,1.6,1.0,65,3,1920,1080,4,322.7,230.0,17.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.42,157,15.6,2.6,12,6,64,2,2800,1000,2.1,1.0,163,3,1920,1080,8,358.0,248.0,20.0,3,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,MSI
+4.2,8631,15.6,2.0,3,4,16,2,2133,1000,2.1,1.0,65,4,1366,768,2,380.0,253.8,23.8,1,4.0,1, DOS , LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+5.0,1,15.6,2.1,6,4,20,1,2426,1000,2.24,1.0,50,3,1920,1080,4,360.2,234.9,22.9,1,4.2,1,Windows, LED , No ,No,Li-Po,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.0,3674,15.6,3.0,4,8,16,2,2666,1000,1.75,1.0,65,3,1920,1080,2,358.5,242.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.1,199,15.6,1.6,6,2,8,1,2293,1000,1.74,1.0,41,3,1920,1080,6,359.0,242.0,20.0,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,HP
+4.24,1197,15.6,2.3,16,8,32,1,2666,1000,2.1,1.0,230,4,3840,2160,8,358.0,248.0,19.8,2,5.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,MSI
+3.96,158,15.6,3.0,6,8,13,1,3200,256,1.8,1.0,37,2,1920,1080,4,360.0,235.0,19.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+3.8899999999999992,83,15.6,3.0,6,4,17,1,2987,512,1.8,1.0,42,3,1920,1080,4,359.0,235.0,19.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.5,193,15.6,2.6,4,4,32,2,2666,1000,2.4,1.0,150,3,1920,1080,6,360.0,275.0,25.8,3,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.3,42,14.0,4.2,8,16,32,2,3040,512,1.2,1.0,65,4,1920,1080,6,323.4,218.9,15.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Acer
+4.119999999999999,91,15.6,1.97,8,2,8,1,2586,1000,1.7,1.0,65,2,1920,1080,6,363.0,238.0,19.0,1,4.2299999999999995,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,Acer
+4.3,181,14.0,2.1,8,8,13,1,3066,256,1.59,1.0,51,3,1920,1080,6,324.0,220.0,19.0,1,5.1,1,Windows, LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+3.5,46,14.0,2.6,4,4,18,1,2400,1000,1.6,1.0,35,2,1366,768,2,327.1,241.0,19.9,2,4.0,1, DOS , LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+3.9899999999999993,17,15.6,2.3,6,4,16,1,2400,1000,2.33,1.0,180,6,1920,1080,4,357.7,248.0,27.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,MSI
+4.0,178,14.0,2.8,15,4,8,2,3200,512,1.6,1.0,85,4,1920,1080,8,324.0,222.0,18.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.0,1,13.3,2.4,8,8,30,1,3466,512,1.3,1.0,65,4,1920,1080,6,305.0,211.0,13.9,2,5.0,2,Windows, OLED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+3.9,81,14.0,2.5,5,4,22,1,2400,1000,2.1,1.0,41,3,1366,768,2,335.0,234.0,19.9,1,4.2,1, DOS , LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,HP
+4.2,103,15.6,3.0,11,8,16,1,3200,1000,1.98,1.0,101,3,1920,1080,6,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.27,117,13.3,1.6,6,8,27,1,2746,512,1.22,1.0,59,4,1920,1080,6,312.0,217.0,17.0,2,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.130000000000001,1296,15.6,3.0,6,8,13,1,3147,256,1.8,1.0,45,2,1920,1080,4,360.0,235.0,19.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+3.94,139,15.6,2.5,8,8,32,1,2933,1000,2.3,1.0,76,3,1920,1080,6,359.0,256.0,25.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+3.4,8,15.6,1.6,6,2,8,1,2133,1000,1.973,1.0,65,2,1920,1080,6,364.608,250.2,20.720000000000002,2,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.18,933,12.5,1.0,4,4,10,1,1866,64,1.2,1.0,40,2,1920,1080,2,304.0,210.0,13.7,2,4.2,1, Google Chrome , LED , Yes ,Yes,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+4.7,75,17.3,2.6,12,4,16,1,2666,512,2.2,1.0,51,3,1920,1080,8,397.0,260.0,22.0,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,MSI
+4.3,3,15.6,2.5,8,4,8,1,2933,1000,2.2,1.0,45,3,1920,1080,6,359.806,253.57999999999998,24.310000000000002,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+3.95,2,14.0,2.5,3,4,26,2,2160,1000,1.9,1.0,65,4,1366,768,4,340.0,240.0,23.7,1,4.2,1,Windows, LED , Yes ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+3.84,67,15.6,1.8,8,2,8,1,2666,1000,1.75,1.0,58,2,1920,1080,8,357.0,230.0,20.0,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+3.85,603,14.0,1.6,6,8,15,1,2400,1000,1.6,1.0,65,3,1366,768,6,324.2,237.7,18.0,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+3.7,20,15.6,2.6,12,16,32,1,3200,1000,2.1,1.0,230,4,1920,1080,8,360.0,255.0,20.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.59,928,13.3,1.6,6,8,32,2,2400,256,1.45,1.0,45,3,1920,1080,6,321.8,224.2,18.8,2,5.0,2,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.0,64,15.6,2.4,8,8,12,1,3200,512,1.65,1.0,65,3,1920,1080,6,359.2,236.5,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.5,2,13.4,3.0,16,4,16,1,3333,1000,1.3,1.0,100,4,1920,1200,8,299.0,222.0,15.8,1,5.1,2,Windows, LED , No ,No,Li-Ion,Yes,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.18,40,15.6,3.0,8,4,8,1,3200,512,1.98,1.0,51,3,1920,1080,6,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.3,302,14.0,4.2,8,8,18,2,3200,512,1.61,1.0,65,3,1920,1080,6,324.0,221.0,18.0,2,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.07,30,15.6,2.6,12,4,32,1,2906,1000,1.7,1.0,101,4,1920,1080,8,363.0,254.0,19.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Acer
+4.1,176,15.6,1.6,6,8,16,1,2400,1000,1.76,1.0,41,3,1920,1080,6,358.0,242.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.14,296,14.0,1.6,6,8,26,1,2666,128,1.65,1.0,61,3,1920,1080,6,321.5,206.0,17.9,1,5.0,2, Google Chrome , LED , Yes ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.49,281,15.6,2.9,8,6,32,2,3200,512,2.3,1.0,135,4,1920,1080,8,360.0,260.0,20.0,3,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.7,34,16.1,2.5,8,4,8,1,2933,1000,2.35,1.0,150,3,1920,1080,6,370.0,262.5,23.5,2,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+5.0,1,15.6,2.2,2,4,16,2,1600,1000,2.19,1.0,65,4,1366,768,4,384.0,254.0,24.3,2,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,HP
+4.0,5077,15.6,1.2,4,8,12,1,2666,1000,1.85,1.0,65,2,1920,1080,4,362.2,251.5,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.2,18,15.6,1.6,6,8,16,1,2400,1000,1.7,1.0,65,4,1920,1080,6,359.0,240.0,16.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,No,no,HDD,Acer
+4.7,96,15.6,2.2,9,6,32,2,2400,1000,1.86,1.0,51,3,1920,1080,6,359.0,254.0,21.7,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,MSI
+4.0,120,15.6,1.6,6,4,8,1,2133,1000,2.2,1.0,65,2,1366,768,6,378.0,260.0,22.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+3.84,67,15.6,1.8,8,2,8,1,2666,1000,1.75,1.0,58,2,1920,1080,8,357.0,230.0,20.0,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+3.8,91,15.6,1.0,6,2,8,1,2666,1000,2.2,1.0,42,3,1920,1080,6,380.0,258.0,22.7,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Dell
+3.8899999999999997,3,15.6,2.6,4,4,22,1,2400,1000,1.8,1.0,45,4,3840,2160,2,362.2,253.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.5,134,15.6,2.4,8,4,8,1,2576,512,2.3,1.0,170,4,1920,1080,6,360.0,267.0,25.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Lenovo
+4.16,165,14.0,2.9,8,6,16,2,3200,1000,1.7,1.0,124,4,2560,1440,8,324.0,220.0,20.0,2,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.1,7,15.6,2.1,4,4,12,1,2666,256,2.0,1.0,41,2,1920,1080,4,360.0,234.0,19.0,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.2,37,15.6,3.28,8,8,16,2,2666,512,1.7,1.0,45,3,1920,1080,6,358.5,242.0,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+4.0,1,13.3,1.1,12,16,27,1,2666,512,1.4,1.0,45,4,1920,1080,8,308.0,217.0,17.4,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.0,40,14.0,1.6,6,8,18,1,2133,512,1.19,1.0,45,3,1920,1080,6,319.0,199.0,15.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.5,11,14.0,1.6,6,2,8,1,2400,1000,1.59,1.0,41,3,1920,1080,6,324.0,222.9,19.7,1,4.2,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.2700000000000005,1,17.3,2.2,16,4,16,2,2986,512,2.6,1.0,150,3,1920,1080,8,399.0,269.0,23.9,1,5.1,2,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.0,268,15.6,2.5,4,4,15,1,2133,1000,2.2,1.0,45,3,1366,768,2,380.0,258.0,22.7,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,Dell
+4.09,108,15.6,2.1,8,8,13,1,3013,512,1.75,1.0,60,3,1920,1080,6,360.0,234.0,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.5,2,15.6,2.5,8,4,8,1,2933,1000,2.3,1.0,60,4,1920,1080,6,363.0,260.0,24.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+4.14,192,15.6,2.4,8,8,16,1,3200,1000,1.8,1.0,65,3,1920,1080,6,359.0,235.0,17.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Asus
+4.5,2336,14.0,2.46,10,8,21,1,3120,512,1.2,1.0,53,3,1920,1080,8,322.58,218.0,18.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Acer
+4.3,149,14.0,1.6,6,8,16,1,2133,1000,1.59,1.0,41,3,1920,1080,6,323.5,224.2,19.7,1,4.2,1,Windows, LED , Yes ,Yes,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,No,yes,HDD,HP
+4.47,273,15.6,2.6,12,4,64,2,2666,1000,2.2,2.0,104,6,1920,1080,8,383.0,260.0,29.5,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,MSI
+4.5,134,15.6,2.4,8,4,8,1,2576,512,2.3,1.0,170,4,1920,1080,6,360.0,267.0,25.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Lenovo
+4.4,2279,14.0,2.1,4,4,17,1,2507,512,1.5,1.0,45,2,1920,1080,4,322.0,212.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.09,252,10.1,2.0,3,4,26,1,2186,128,0.92,1.0,47,3,1920,1080,3,244.87,169.31,18.2,2,4.2,2, Google Chrome , LED , Yes ,No,Li-Po,No,MediaTek,ARM Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.1,855,15.6,2.02,6,8,14,1,2613,512,1.75,1.0,41,3,1920,1080,4,358.0,242.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+4.3,181,14.0,2.1,8,8,13,1,3066,256,1.59,1.0,51,3,1920,1080,6,324.0,220.0,19.0,1,5.1,1,Windows, LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.18,15,14.0,1.8,8,16,29,1,2400,1000,1.2,1.0,52,4,1920,1080,6,319.3,197.4,12.2,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.2,1708,15.6,2.0,4,8,16,1,2133,1000,2.1,1.0,45,4,1920,1080,4,370.5,255.0,18.9,1,4.1,1,Windows, LED , No ,Yes,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,No,no,HDD,Acer
+4.3,227,14.0,1.6,6,8,14,1,2666,256,1.5,1.0,45,3,1920,1080,6,326.0,230.0,17.9,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.01,53,14.0,1.8,8,16,30,1,2986,1000,0.99,1.0,66,4,1920,1080,8,320.0,203.0,14.9,1,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Asus
+4.11,2434,11.6,2.1,1,2,20,1,1973,16,1.1,1.0,45,3,1366,768,2,299.0,203.0,18.5,1,4.140000000000001,2, Google Chrome , LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Acer
+4.5,519,15.6,2.3,6,16,32,1,2400,512,2.2,1.0,180,4,1920,1080,4,360.0,252.0,20.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+3.6,4,15.6,2.6,6,4,16,1,3200,1000,2.0,1.0,75,3,1920,1080,8,360.0,275.0,21.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+3.3,2,15.6,2.6,12,16,32,1,3013,1000,2.5,1.0,152,4,1920,1080,8,363.0,255.0,22.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Acer
+3.5,35,14.0,2.4,8,8,16,2,2666,512,1.58,1.0,68,3,1920,1080,6,329.0,240.0,20.0,1,4.1,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Dell
+4.8,7,14.0,4.2,8,2,8,1,3173,512,1.29,1.0,65,3,1920,1080,6,319.0,199.0,16.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.5,33,15.6,1.6,6,8,19,1,2426,256,1.8,1.0,52,3,1920,1080,6,358.14,243.84,17.7,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.3,88,16.1,2.5,8,4,8,1,2933,1000,2.44,1.0,150,3,1920,1080,6,370.0,262.0,23.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.499999999999999,70,15.6,2.6,12,4,16,1,2666,1000,2.45,1.0,90,6,1920,1080,8,377.4,252.3,24.5,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.08,73,14.0,2.3,8,8,14,1,3200,512,1.6,1.0,45,3,1920,1080,6,324.38,230.61000000000004,19.110000000000003,1,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.7299999999999995,88,17.3,2.9,12,8,32,2,2666,1000,4.42,1.0,99,6,2560,1440,6,424.0,332.0,29.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Dell
+4.1,17,14.0,1.2,4,8,16,2,2666,1000,1.58,1.0,45,3,1920,1080,4,329.0,240.0,20.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Dell
+3.8,104,15.6,1.2,4,4,19,1,2666,1000,1.77,1.0,41,3,1920,1080,4,358.0,242.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.32,192,16.1,2.6599999999999997,16,4,32,2,3200,512,2.46,1.0,150,4,1920,1080,8,370.0,235.0,26.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,no,SSD,HP
+4.4,39,15.6,2.3,6,8,16,2,2400,512,1.83,1.0,42,3,1920,1080,4,364.0,249.0,20.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Dell
+4.3,125,15.6,3.3200000000000003,6,4,12,1,2907,256,1.7,1.0,45,2,1920,1080,4,363.4,238.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Acer
+4.5,381,15.6,3.0,3,4,8,1,3093,512,1.98,1.0,70,3,1920,1080,6,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.299999999999999,125,15.6,3.3200000000000003,6,4,12,1,2907,256,1.7,1.0,45,2,1920,1080,4,363.4,238.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Acer
+4.0,248,15.6,2.6,5,4,12,1,2293,1000,1.9,1.0,45,2,1920,1080,2,363.4,250.5,19.9,1,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Acer
+3.91,1,15.6,2.1,4,4,14,1,2133,1000,1.85,1.0,35,2,1366,768,4,362.0,251.0,21.0,1,4.090000000000001,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+3.9,1172,15.6,2.1,6,8,16,2,2400,512,1.96,1.0,50,3,1920,1080,4,364.0,249.0,20.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Dell
+4.220000000000001,384,14.0,3.0,16,4,16,1,3200,512,1.7,1.0,180,4,1920,1080,8,324.0,222.0,19.9,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.14,3,17.3,2.6,3,16,32,1,3200,1000,2.8,1.0,240,4,1920,1080,8,399.0,272.0,18.7,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+3.97,356,14.0,2.1,4,8,21,1,2373,512,2.1,1.0,48,4,1920,1080,4,329.0,242.0,21.9,1,4.0,1, DOS , LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.2,1652,15.6,1.6,6,8,15,1,2666,1000,1.74,1.0,65,3,1920,1080,6,358.4,242.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.2,250,15.6,2.6,12,4,32,1,2666,1000,2.3,1.0,52,3,1920,1080,8,365.0,260.0,25.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.4,553,15.6,2.5,8,4,8,1,2933,512,2.3,1.0,107,3,1920,1080,6,359.0,259.0,25.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.2,2584,15.6,2.4,2,4,18,1,1600,500,2.1,1.0,41,3,1920,1080,2,381.0,256.0,24.5,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,HP
+3.9,1304,15.6,2.3,5,4,12,1,2400,1000,1.85,1.0,65,2,1366,768,2,362.2,253.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.01,53,14.0,1.8,8,16,30,1,2986,1000,0.99,1.0,66,4,1920,1080,8,320.0,203.0,14.9,1,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Asus
+4.4,2294,14.0,1.6,6,8,15,1,2400,512,1.5,1.0,45,2,1920,1080,6,322.0,212.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.0,145,15.6,4.2,8,2,8,1,3200,1000,2.24,1.0,42,3,1920,1080,6,359.0,235.0,19.9,2,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+4.3,554,15.6,2.4,8,4,8,1,2523,1000,2.3,1.0,52,3,1920,1080,6,360.0,267.0,25.0,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.0,2341,15.6,2.3,3,4,18,1,2133,1000,2.2,1.0,40,4,1366,768,2,380.0,260.0,23.6,2,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Dell
+4.01,2430,14.0,2.0,3,4,16,2,2106,128,1.56,1.0,52,4,1366,768,2,341.0,236.0,17.9,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Acer
+4.5,141,12.3,2.6,3,8,15,1,1866,256,0.78,1.0,51,4,2736,1824,4,292.1,201.42,8.38,1,4.2,2,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,No,no,SSD,Microsoft
+4.2,62,14.0,2.6,5,8,21,1,2320,256,1.34,1.0,37,6,1920,1080,2,332.0,221.0,17.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Avita
+3.6400000000000006,89,14.0,1.0,6,8,13,1,2666,1000,1.8,1.0,30,2,1920,1080,6,339.96999999999997,237.6,20.550000000000004,1,4.2,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.0,43,14.0,1.6,6,8,14,1,2666,500,1.77,1.0,45,3,1920,1080,6,325.0,232.0,21.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.1899999999999995,1420,14.0,2.3,4,4,20,1,2480,256,1.9,1.0,70,3,1920,1080,2,325.0,216.0,19.0,2,4.46,1,Windows, LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,No,Yes,no,SSD,Asus
+4.27,286,14.0,3.22,6,8,14,1,3200,256,1.5,1.0,65,3,1920,1080,4,321.5,217.5,20.4,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.5,193,13.5,1.3,8,16,22,1,2320,256,1.29,1.0,60,6,2256,1504,8,308.0,223.0,14.5,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Microsoft
+4.4,6275,14.0,2.1,4,4,17,1,2507,256,1.5,1.0,45,2,1920,1080,4,322.0,212.0,19.9,1,4.1,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.0,367,15.6,2.7,4,8,16,2,2400,1000,2.2,1.0,40,4,1366,768,4,380.0,260.0,25.1,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,AMD Graphics,Yes,Yes,Yes,no,HDD,Dell
+4.08,532,15.6,2.2,4,4,17,1,2133,1000,2.0,1.0,42,3,1920,1080,4,375.46,253.7,22.2,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.2,6,17.3,2.1,2,4,8,1,2400,1000,2.6,1.0,64,4,1920,1080,4,399.8,279.4,27.6,1,4.2,1,Windows, LED , No ,No,Li-Po,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,Asus
+4.2,207,15.6,3.0,6,4,14,1,2987,256,1.7,1.0,45,3,1920,1080,4,365.0,240.0,18.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+3.87,258,15.6,2.3,4,4,32,2,2400,1000,2.2,1.0,48,4,1920,1080,4,360.4,262.0,26.8,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+5.0,1,14.0,1.6,6,8,12,1,2133,1000,1.4,1.0,45,3,1920,1080,6,323.0,226.0,18.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Asus
+4.0,13,15.6,2.6,12,4,8,1,2933,1000,2.36,1.0,150,3,1920,1080,8,357.9,239.7,22.5,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+3.8,75,15.6,1.2,4,8,24,2,2666,1000,2.2,1.0,84,3,1920,1080,4,340.0,258.0,22.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Dell
+4.069999999999999,32,15.6,3.3599999999999994,8,2,8,1,3066,1000,1.66,1.0,57,3,1920,1080,6,356.0,233.0,19.0,2,5.1,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.49,2793,13.3,1.8,8,8,32,1,2400,512,1.22,1.0,48,4,1920,1080,6,311.9,217.0,16.5,2,4.2,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.090000000000001,117,13.3,2.0,8,16,19,1,3093,1000,1.32,1.0,65,3,1920,1080,8,306.0,194.0,16.4,2,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,yes,HDD,HP
+3.8,4,14.5,2.4,6,2,8,1,2906,512,1.24,1.0,70,4,2560,1600,6,321.5,224.2,14.2,1,5.1,2,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Dell
+4.18,441,15.0,1.2,4,2,8,1,2666,512,2.2,1.0,65,3,1920,1080,6,340.0,258.0,22.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Dell
+4.4,1433,15.6,2.3,8,4,8,1,2666,1000,2.53,1.0,56,4,1920,1080,6,380.0,258.0,22.7,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Dell
+4.18,2,13.4,3.0,20,16,32,1,4266,1000,1.3,1.0,100,4,3840,2400,8,299.0,222.0,15.8,1,5.1,2,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+3.8199999999999994,144,14.0,2.7,4,8,15,2,3200,1000,1.6,1.0,65,3,1366,768,4,324.2,237.7,17.9,1,5.0,1, DOS , LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,HP
+4.3,41,14.0,4.2,8,8,15,1,3200,512,1.5,1.0,42,3,1920,1080,6,324.0,220.0,18.7,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.0,66,14.0,4.0,6,4,20,1,3200,256,1.72,1.0,52,3,1920,1080,4,324.0,222.0,19.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Dell
+4.2,561,15.6,2.5,3,4,8,1,2133,1000,2.2,1.0,50,2,1920,1080,4,379.0,260.0,22.9,1,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.0,25,15.6,2.6,12,6,32,1,2666,1000,2.57,1.0,230,4,1920,1080,8,360.0,275.0,24.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.289999999999999,236,15.6,2.6,12,6,32,1,2800,1000,2.5,1.0,230,8,3840,2160,8,356.0,224.0,24.0,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.430000000000001,1742,15.6,3.1,8,4,32,2,3200,512,2.2,1.0,45,4,1920,1080,6,363.0,255.0,23.9,3,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Acer
+4.11,91,14.0,1.8,8,2,16,1,2133,1000,1.26,1.0,50,3,1920,1080,8,319.0,199.0,16.9,1,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+4.43,291,13.3,1.1,6,8,26,1,3733,256,1.29,1.0,30,4,2560,1600,6,304.1,212.4,16.1,1,5.0,2,MAC, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Apple
+3.9099999999999993,1,14.0,1.6,6,4,16,1,2133,1000,1.7,1.0,30,2,1920,1080,6,334.87,236.0,20.860000000000003,2,4.0,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+3.3,58,15.6,2.5,3,8,16,1,2133,1000,2.0,1.0,65,4,1920,1080,4,381.6,263.0,21.0,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Acer
+4.49,76,15.6,2.7500000000000004,8,16,22,2,3200,512,1.75,1.0,65,3,1920,1080,6,360.2,234.0,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,HP
+3.7699999999999996,3,12.5,1.6,6,8,15,1,2133,512,1.6,3.0,48,6,1920,1080,6,311.04,211.42600000000002,18.520000000000003,1,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.569999999999999,201,15.6,2.5,8,4,16,1,2960,512,2.3,1.0,150,3,1920,1080,6,359.0,256.0,24.7,1,5.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.3,460,15.6,3.0,3,4,4,1,3093,512,1.98,1.0,52,3,1920,1080,6,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.0,9,15.6,2.5,3,4,20,1,2133,1000,1.86,1.0,41,4,1920,1080,4,380.0,253.8,23.8,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,HP
+3.9199999999999995,148,15.6,1.6,6,2,8,2,2666,1000,1.7,1.0,35,2,1920,1080,6,360.11,238.38000000000002,19.34,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.8,24,14.0,1.8,8,8,18,1,2773,512,1.5,1.0,65,3,1920,1080,8,324.0,220.0,18.2,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.1,260,15.6,2.5,3,2,8,1,2133,1000,2.2,1.0,39,2,1366,768,4,379.0,260.0,22.9,1,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,Lenovo
+3.9,90,15.6,4.2,8,8,14,1,3013,512,1.65,1.0,45,3,1920,1080,6,363.4,238.5,17.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Acer
+4.5,1947,15.6,2.1,6,3,8,1,2400,1000,1.98,1.0,135,3,1920,1080,4,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.6,60,15.6,2.3,8,8,16,1,2666,256,1.7,1.0,65,3,1920,1080,6,358.5,242.0,17.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,HP
+3.6,13,15.6,1.2,4,8,26,2,2400,1000,2.2,1.0,57,3,1920,1080,4,340.0,258.0,22.0,1,4.1,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Dell
+4.6,8,15.6,2.4,8,8,14,1,2880,512,1.7,1.0,45,3,1920,1080,6,365.0,240.0,18.9,3,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.3,235,15.6,1.6,6,2,8,1,2400,1000,1.77,1.0,41,3,1920,1080,6,376.0,246.0,22.5,1,4.2,1, DOS , LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,HP
+4.36,387,15.0,1.6,6,2,8,1,2400,1000,1.7,1.0,42,3,1920,1080,6,361.4,243.0,18.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.1,351,14.0,2.12,6,4,16,1,2666,1000,1.58,1.0,48,3,1920,1080,4,329.0,240.0,20.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Dell
+4.5,2,15.6,2.0,8,8,16,1,2666,512,1.7,1.0,65,3,1920,1080,8,358.5,242.0,17.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,HP
+3.5,22,15.6,4.0,6,4,16,1,2666,1000,1.9,1.0,55,2,1920,1080,4,363.4,238.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.220000000000001,1494,15.6,2.3,3,4,14,1,2133,1000,2.66,1.0,51,2,1920,1080,2,380.87,262.07599999999996,26.03,2,4.2,1,Windows, LED , No ,Yes,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.2,79,15.6,3.0,6,4,15,1,2987,256,1.7,1.0,45,3,1920,1080,4,365.0,240.0,18.9,1,5.1,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.209999999999999,34,13.3,1.6,6,16,25,1,2666,512,1.43,1.0,46,4,1920,1080,6,311.0,219.0,18.0,1,5.0,2,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.03,374,15.6,2.1,4,8,12,2,2400,512,1.8,1.0,35,2,1920,1080,4,361.78000000000003,250.13000000000002,19.69,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.23,162,14.0,1.6,6,2,8,1,2133,512,1.5,1.0,65,4,1920,1080,6,323.0,223.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Asus
+4.0,9,15.6,2.8,16,6,16,1,3173,1000,2.3,1.0,230,4,1920,1080,8,363.4,255.0,22.9,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Acer
+4.41,12,15.6,2.6,12,4,8,1,2906,1000,2.3,1.0,69,4,1920,1080,8,363.0,259.0,23.0,3,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+3.7,36,14.0,2.1,4,4,32,1,2666,1000,1.67,1.0,49,3,1920,1080,4,328.0,232.8,19.9,1,4.1,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Dell
+4.5,270,15.6,3.0,11,4,8,1,3200,512,2.37,1.0,200,6,1920,1080,6,357.0,239.0,22.5,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.140000000000001,224,13.3,1.8,8,16,30,1,2133,512,1.04,1.0,50,4,3840,2160,6,309.88,213.36,12.7,1,5.0,2,Windows, LED , Yes ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.19,376,15.6,2.1,4,8,13,1,2240,1000,1.9,1.0,45,2,1920,1080,4,360.0,235.0,22.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+3.97,48,14.0,2.4,8,16,28,1,2960,512,1.36,1.0,65,4,1920,1080,6,320.6,208.18,14.9,1,5.0,2,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.4,184,15.6,2.6,5,4,13,1,2400,256,1.69,1.0,53,3,1366,768,2,358.0,242.0,17.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,HP
+4.29,522,15.6,2.9,8,4,8,1,3147,512,2.1,1.0,150,4,1920,1080,8,354.0,259.0,20.6,3,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.1,206,15.6,2.4,8,4,8,1,2666,1000,2.23,1.0,52,3,1920,1080,6,360.0,256.0,23.4,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+3.91,560,15.6,1.1,4,4,21,1,2160,1000,1.9,1.0,33,3,1366,768,4,381.0,251.0,27.2,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+3.8899999999999997,294,15.6,2.1,4,4,14,1,2133,1000,1.85,1.0,35,2,1920,1080,4,362.0,251.0,21.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.3,536,15.6,1.2,4,8,14,1,2666,1000,1.77,1.0,65,3,1920,1080,4,358.0,242.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.43,396,14.0,1.8,8,16,30,1,3200,512,1.55,1.0,65,3,1920,1080,8,325.15,223.64499999999998,17.800000000000004,2,5.0,2,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.1,1874,15.6,1.6,6,8,16,1,2400,1000,2.1,1.0,56,2,1366,768,6,375.0,253.0,22.7,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.459999999999999,115,15.6,2.6399999999999997,8,4,8,1,3040,512,2.35,1.0,150,3,1920,1080,6,359.0,259.0,24.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,MSI
+4.4,553,15.6,2.5,8,4,8,1,2933,512,2.3,1.0,107,3,1920,1080,6,359.0,259.0,25.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.11,274,11.6,1.6,2,4,19,1,1866,16,1.35,1.0,45,3,1366,768,2,297.68,210.05,22.0,2,4.0,3, Google Chrome , LED , No ,Yes,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Acer
+4.14,38,17.3,3.3,16,6,8,1,3147,1000,2.7,1.0,240,4,1920,1080,8,395.0,282.0,23.4,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+3.8,17,15.6,3.3,16,4,32,1,3200,1000,2.1,1.0,200,4,1920,1080,6,354.0,259.0,20.7,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.9,11,15.6,2.6,12,8,32,2,2666,1000,2.57,1.0,230,4,1920,1080,8,360.0,275.0,24.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+3.7300000000000004,1,15.6,2.0,4,8,19,1,1600,1000,2.1,1.0,56,4,1366,768,4,384.0,264.0,25.0,2,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.5,519,15.6,2.3,6,16,32,1,2400,512,2.2,1.0,180,4,1920,1080,4,360.0,252.0,20.0,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.4,11,15.6,2.4,8,6,16,1,2666,1000,2.4,1.0,66,4,1920,1080,6,360.0,275.0,25.8,3,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.1,2077,14.0,2.0,3,4,18,1,2133,1000,1.7,1.0,47,3,1920,1080,2,336.0,232.0,20.9,1,4.0,1,Windows, LED , Yes ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.3,202,14.0,2.4,8,8,12,1,3200,512,1.41,1.0,65,3,1920,1080,6,324.2,215.7,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+3.8,138,15.6,2.7,3,4,17,1,2133,1000,2.154,1.0,40,3,1920,1080,2,378.96,258.36199999999997,23.169999999999995,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.3,106,14.0,1.0,6,8,16,1,3200,512,1.5,1.0,65,3,1920,1080,6,321.5,217.5,20.9,2,4.2,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.43,5,15.6,2.6,12,4,8,1,2933,1000,2.3,1.0,60,4,1920,1080,8,363.06,259.61,23.5,3,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.0,141,15.6,2.4,8,4,8,1,2666,1000,2.23,1.0,150,3,1920,1080,6,360.0,256.0,23.4,4,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.299999999999999,5,15.0,2.5,8,8,16,2,2933,1000,2.2,1.0,135,3,1920,1080,6,359.0,249.6,24.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+3.9799999999999995,554,15.6,1.1,4,4,12,1,2400,256,1.7,1.0,45,2,1366,768,2,362.2,253.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.6,256,13.0,1.4,6,8,16,1,2133,256,1.4,1.0,58,4,2560,1600,6,304.0,212.4,15.6,2,5.0,2,MAC, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Apple
+4.3,593,14.0,2.2,4,8,16,1,2400,1000,1.3,1.0,42,3,1920,1080,4,326.0,226.0,18.8,2,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.35,780,15.6,2.3999999999999995,8,2,8,1,2923,1000,1.8,1.0,72,2,1920,1080,6,360.0,235.0,19.9,1,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+4.08,9,15.6,1.0,6,8,15,1,2586,1000,1.8,1.0,45,2,1920,1080,6,360.2,234.9,19.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+3.8,10720,15.6,1.1,4,4,15,1,2133,1000,1.9,1.0,33,3,1366,768,2,381.0,251.0,27.2,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.4,374,15.6,2.4,8,8,16,1,2506,1000,2.2,1.0,135,3,1920,1080,6,363.0,254.0,23.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.6,4111,13.3,1.6,3,8,20,1,1600,128,1.3,1.0,47,4,1400,900,4,325.0,227.0,17.0,2,4.0,1,MAC, LED , No ,Yes,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,yes,HDD,Apple
+4.5,916,14.0,1.6,6,8,20,1,2666,512,1.58,1.0,53,3,1920,1080,6,322.0,223.0,19.7,2,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.2,79,15.6,3.0,6,4,15,1,2987,256,1.7,1.0,45,3,1920,1080,4,365.0,240.0,18.9,1,5.1,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.3,6933,15.6,2.3,3,4,16,1,2133,1000,1.77,1.0,41,3,1366,768,2,376.0,246.0,22.5,1,4.2,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,HP
+4.470000000000001,5,13.4,3.0,16,4,32,1,3226,1000,1.3,1.0,113,4,3840,2400,8,299.0,222.0,15.8,1,5.1,1,Windows, LED , Yes ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.249999999999999,355,14.0,2.66,6,4,16,1,3013,256,1.55,1.0,45,3,1366,768,4,328.0,223.0,17.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Acer
+3.8,188,15.6,2.4,8,8,15,1,2666,1000,1.83,1.0,45,3,1920,1080,6,363.96,249.0,18.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Dell
+4.3,199,14.0,2.2,4,4,18,1,2400,256,1.43,1.0,65,3,1366,768,4,324.0,225.9,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+4.49,281,15.6,2.9,8,6,32,2,3200,512,2.3,1.0,135,4,1920,1080,8,360.0,260.0,20.0,3,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.17,59,15.6,2.5,8,4,8,1,2933,512,1.9,1.0,57,3,1920,1080,6,361.88800000000003,255.89000000000001,22.17,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Lenovo
+4.1,539,15.6,1.2,4,4,12,2,3200,1000,1.9,1.0,45,2,1920,1080,4,360.0,235.0,22.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.31,422,15.6,2.9,8,4,8,1,3120,512,2.1,1.0,150,4,1920,1080,8,354.0,259.0,20.6,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.4,617,15.6,2.3,8,8,16,1,2400,1000,2.7,1.0,135,4,1920,1080,6,390.0,266.0,26.8,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,yes,HDD,Acer
+4.08,40,14.0,3.0,16,4,8,1,3200,512,1.6,1.0,76,4,1920,1080,8,324.0,222.0,18.0,1,5.1,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.390000000000001,471,15.6,2.5,8,4,8,1,3013,1000,1.86,1.0,120,3,1920,1080,6,359.0,254.0,21.7,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,MSI
+4.35,780,15.6,2.4,8,2,8,1,2923,1000,1.8,1.0,72,2,1920,1080,6,360.0,235.0,19.9,1,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Asus
+4.1,99,15.6,1.1,2,4,22,1,2106,64,1.43,1.0,40,2,1366,768,2,358.0,248.0,15.6,2,4.0,2, Google Chrome , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.0,742,15.6,2.6,5,4,14,1,2400,1000,1.74,1.0,65,3,1920,1080,2,358.5,242.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,HP
+4.3,692,15.6,2.3,6,8,32,2,2453,512,2.15,1.0,135,3,1920,1080,4,363.4,254.5,23.2,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Acer
+4.0,130,15.6,1.2,4,8,16,2,2666,1000,1.83,1.0,42,3,1920,1080,4,363.0,249.0,18.0,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Dell
+4.5,1156,11.6,2.1,1,4,24,1,1866,16,1.404,1.0,42,3,1366,768,2,298.092,208.50900000000001,20.57,2,4.2,2, Google Chrome , LED , No ,No,Li-Ion,No,Intel,PowerVR Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.5,2,15.6,2.2,16,8,32,1,2933,1000,2.34,1.0,240,8,3840,2160,8,359.0,249.0,21.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Asus
+4.470000000000001,5,13.4,3.0,16,4,32,1,3226,1000,1.3,1.0,113,4,3840,2400,8,299.0,222.0,15.8,1,5.1,1,Windows, LED , Yes ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.0,5130,15.6,2.3,3,4,12,1,2133,1000,1.85,1.0,35,2,1920,1080,2,362.2,251.5,19.9,1,4.2,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.4,310,13.3,1.9,2,4,64,1,2480,64,1.23,1.2,45,4,1920,1080,2,308.57000000000005,209.3,17.73,1,5.0,2, Google Chrome , QLED , Yes ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Samsung
+4.6,342,13.3,4.2,8,8,24,1,3386,512,1.2,1.0,45,3,1920,1080,6,304.0,196.0,14.9,1,5.0,2,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.29,124,13.3,1.8,8,2,16,1,2400,512,1.2,1.0,65,4,1920,1080,8,307.0,211.0,14.7,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,HP
+4.4,986,14.0,4.2,8,16,16,1,3200,512,1.41,1.0,43,3,1920,1080,6,325.0,216.0,17.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.5,1130,15.6,2.4,8,8,32,1,2666,1000,2.28,1.0,52,3,1920,1080,6,360.0,256.0,23.4,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.1,286,15.6,2.1,6,4,32,1,2400,1000,2.2,1.0,48,3,1920,1080,4,360.4,262.0,25.8,1,5.0,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,No,yes,HDD,Asus
+4.1899999999999995,62,15.6,3.0,8,4,8,1,3200,1000,1.98,1.0,52,3,1920,1080,6,360.0,257.0,23.5,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.1,49,14.0,1.6,6,8,23,1,2506,512,0.99,1.0,65,4,1920,1080,6,320.0,203.0,14.9,1,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.4,735,14.0,2.1,4,8,13,1,2666,512,1.58,1.0,55,3,1920,1080,4,322.0,223.0,19.7,2,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.23,162,14.0,1.6,6,2,8,1,2133,512,1.5,1.0,65,4,1920,1080,6,323.0,223.0,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Asus
+3.97,48,14.0,2.4,8,16,28,1,2960,512,1.36,1.0,65,4,1920,1080,6,320.6,208.18,14.9,1,5.0,2,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+3.96,1364,14.0,2.5,4,4,20,1,2400,1000,2.1,1.0,37,3,1366,768,2,335.0,234.0,19.9,1,4.2,1, DOS , LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,HP
+4.9,17,15.6,2.5,8,6,32,2,2933,512,2.3,1.0,180,4,1920,1080,6,359.0,256.0,24.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.7,419,15.6,2.4,8,8,32,1,2400,2000,2.49,1.0,135,4,1920,1080,6,363.22,254.0,25.4,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,Acer
+4.0600000000000005,624,14.0,3.15,6,8,12,2,3200,512,1.41,1.0,65,3,1920,1080,4,324.2,215.7,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+3.9,19,15.6,4.0,6,4,15,1,2907,256,1.6,1.0,42,2,1920,1080,4,340.0,230.0,17.0,2,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.3,79,15.6,2.5,8,8,16,2,2933,1000,2.2,1.0,135,3,1920,1080,6,359.0,249.6,24.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+3.81,357,14.0,1.6,6,8,13,1,2133,1000,1.75,1.0,45,2,1920,1080,6,361.0,247.5,22.4,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Lenovo
+4.26,179,14.1,2.1,8,8,14,1,3200,1000,1.4,1.0,65,3,1920,1080,6,324.0,213.0,15.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,yes,HDD,Asus
+4.0,172,12.3,1.1,6,8,24,1,2373,256,0.77,1.0,48,4,2736,1824,6,292.0,201.0,8.5,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Microsoft
+4.26,3,15.6,3.1100000000000003,12,16,32,1,3200,512,2.0,1.0,200,4,1920,1080,7,360.0,252.0,19.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.54,2487,15.6,2.9,8,4,32,2,3200,1000,2.3,1.0,149,3,1920,1080,8,359.0,256.0,24.7,3,5.2,1,Windows, LCD , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+4.0,1,15.6,1.1,12,4,16,1,2373,512,1.986,1.0,90,4,1920,1080,8,356.8,233.7,15.9,2,5.0,2,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,MSI
+4.1,37,15.6,1.0,6,8,12,1,2666,512,1.85,1.0,65,2,1920,1080,6,362.2,251.5,19.9,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.590000000000001,86,14.0,2.0,8,8,21,1,2400,512,1.6,1.0,65,3,1920,1080,8,324.2,237.7,17.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,HP
+3.3,25,12.5,2.0,4,8,18,1,1600,256,1.52,1.0,50,6,1920,1080,4,315.0,213.0,20.0,2,4.0,1,Windows, LED , Yes ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Dell
+4.0,367,15.6,2.7,4,2,16,2,2400,1000,2.2,1.0,40,4,1366,768,4,380.0,260.0,25.1,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,AMD Graphics,Yes,Yes,Yes,no,HDD,Dell
+4.14,131,15.6,3.0,6,8,13,1,3013,512,1.65,1.0,65,3,1920,1080,4,359.2,236.5,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.32,324,14.0,2.1,4,8,12,1,2400,512,1.47,1.0,65,3,1920,1080,4,324.0,225.0,17.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,HP
+4.26,46,17.3,2.4,16,8,32,1,3200,1000,2.4,1.0,230,4,1920,1080,10,396.1,259.4,20.2,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,MSI
+4.07,138,15.6,1.2,4,8,12,2,2666,1000,1.85,1.0,35,2,1920,1080,4,362.0,251.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.24,303,11.6,1.6,2,4,25,1,2106,32,1.5,1.0,45,3,1366,768,2,297.18,205.74,23.6,2,4.1,4, Google Chrome , LED , Yes ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.2700000000000005,205,15.6,1.2,4,4,12,1,2666,512,1.5,1.0,59,3,1920,1080,4,352.348,239.65,18.14,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Acer
+3.8099999999999996,949,13.3,1.6,6,8,15,1,2666,512,1.49,1.0,65,3,1366,768,6,308.5,231.0,18.0,1,5.0,1,Windows, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+3.9300000000000006,87,14.0,1.6,6,8,20,2,2666,512,1.46,1.0,59,3,1920,1080,6,323.6,214.7,17.9,1,5.0,2,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,HP
+4.2,210,14.0,1.0,6,2,4,1,2666,1000,1.6,1.0,52,3,1920,1080,6,322.7,230.5,17.9,2,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.24,303,11.6,1.8,2,4,25,1,2106,32,1.5,1.0,45,3,1366,768,2,297.18,205.74,23.6,2,4.1,4, Google Chrome , LED , Yes ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Acer
+4.14,5,15.6,3.0,9,4,8,1,3147,1000,2.4,1.0,135,4,1920,1080,6,363.4,255.0,23.9,1,5.1,1,Windows, LED , No ,No,Li-Po,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Acer
+4.12,9,15.6,2.3,16,8,16,2,3200,1000,2.25,1.0,80,4,1920,1080,8,359.0,259.0,20.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.29,289,15.6,2.4,8,4,8,1,2566,1000,2.17,1.0,63,4,1920,1080,6,382.4,252.5,24.5,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,No,yes,HDD,HP
+4.3,175,15.6,2.1,8,8,13,1,3200,1000,1.65,1.0,65,3,1920,1080,4,359.2,236.5,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.38,149,15.6,2.84,8,16,18,1,3200,512,1.66,1.0,57,3,1920,1080,6,357.0,233.0,18.0,3,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+4.21,13,15.6,2.6,12,6,16,1,3093,1000,1.9,1.0,230,4,1920,1080,8,360.0,252.0,19.9,3,5.1,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.5,1212,11.6,2.0,2,4,30,1,3733,32,1.07,1.0,45,2,1366,768,2,285.0,192.8,16.8,1,4.2,1, Google Chrome , LED , Yes ,No,Li-Po,No,MediaTek,MediaTek Graphics,Yes,Yes,Yes,no,SSD,HP
+4.59,409,14.0,1.8,8,16,30,1,3493,512,1.36,1.0,62,4,2560,1440,8,323.0,218.0,16.0,2,5.0,2,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+3.4,119,15.0,1.0,6,8,16,1,2666,1000,1.85,1.0,65,3,1920,1080,6,362.2,251.5,19.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+3.3,546,14.0,1.6,6,4,18,1,2133,1000,1.5,1.0,33,3,1366,768,6,328.0,246.0,21.9,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+4.069999999999999,3,15.6,2.0,3,8,18,1,2133,1000,2.1,1.0,30,2,1920,1080,2,366.32,251.33,22.12,2,4.1,1, DOS , LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.5,588,14.0,1.6,6,8,21,1,2666,512,1.3,1.0,65,3,1920,1080,6,319.0,220.0,16.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,MSI
+4.5,320,13.3,1.6,4,8,16,1,2133,256,1.25,1.0,49,4,2560,1600,6,304.1,212.4,15.6,1,4.2,2,MAC, LED , No ,No,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Apple
+3.59,7,15.6,3.3,16,12,16,1,3173,1000,2.5,1.0,280,4,2560,1440,8,354.0,256.0,22.6,2,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.17,49,14.0,1.8,8,16,30,1,2853,2000,0.99,1.0,66,4,1920,1080,8,320.0,203.0,14.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Asus
+3.9,1172,15.6,2.1,6,8,16,2,2400,512,1.96,1.0,50,3,1920,1080,4,364.0,249.0,20.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Dell
+4.1,67,15.6,1.6,6,2,8,1,2400,512,1.8,1.0,90,3,1920,1080,6,357.2,230.3,18.0,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,No,yes,SSD,Asus
+4.1000000000000005,1654,15.6,2.1,4,8,12,1,2666,1000,1.7,1.0,45,2,1920,1080,4,362.2,253.4,19.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+4.15,10,15.6,2.6,12,6,32,1,3093,1000,1.9,1.0,230,4,1920,1080,8,360.0,252.0,19.9,3,5.1,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.0,460,15.6,2.5,1,4,14,1,1866,1000,1.86,1.0,45,4,1366,768,2,380.0,253.8,23.8,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,No,no,HDD,HP
+3.8,144,14.0,1.6,6,8,15,1,2666,1000,1.6,1.0,45,3,1920,1080,6,325.36,230.48999999999995,19.43,1,5.0,1, DOS , LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.2,336,15.6,2.5,3,4,8,2,2133,1000,2.0,1.0,65,2,1366,768,4,383.0,243.0,22.5,1,4.2,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,HP
+4.08,5659,15.6,2.0,3,4,15,1,2133,1000,2.0,1.0,65,4,1366,768,2,384.3,254.6,24.3,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+4.1,37,13.3,1.6,6,2,8,1,2666,512,1.3,1.0,65,3,1920,1080,6,306.5,194.6,16.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+4.2,32,14.0,2.1,4,8,12,1,2346,256,1.5,1.0,51,3,1920,1080,4,327.0,241.0,20.0,1,4.0,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,no,SSD,Lenovo
+4.16,89,13.5,4.7,12,16,32,1,3733,1000,1.34,1.0,66,4,1920,1080,7,298.0,220.0,16.9,1,5.0,2,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.01,2782,15.6,2.3,3,4,12,1,2186,1000,1.85,1.0,35,2,1366,768,2,362.0,251.0,20.0,1,4.2,1, DOS , LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+3.6799999999999997,15,14.0,1.8,8,2,8,1,2773,1000,1.6,1.0,65,3,1920,1080,8,325.3,232.9,19.9,3,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+3.9,2625,15.6,1.6,6,8,19,1,1866,1000,1.67,1.0,42,4,1920,1080,6,360.68,243.84,20.3,1,4.0,1,Windows, LED , No ,Yes,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+3.8800000000000003,5,15.6,2.5,8,4,8,2,2933,1000,2.3,1.0,60,4,1920,1080,8,360.0,267.0,24.7,1,4.2,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+3.9699999999999998,23,15.6,1.0,6,2,4,1,2666,1000,1.9,1.0,65,3,1920,1080,6,363.4,250.5,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Acer
+4.5,124,15.6,2.6,12,4,32,1,2773,1000,2.3,1.0,55,4,1920,1080,8,364.86,256.361,23.980000000000004,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Acer
+4.5,1514,15.6,2.6,12,4,8,1,2666,512,1.86,1.0,120,3,1920,1080,8,359.0,254.0,21.7,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,MSI
+5.0,1,11.6,1.6,2,4,31,1,1600,32,1.17,1.0,38,2,1366,768,2,297.14,200.66,17.7,1,4.1,2,Windows, LED , Yes ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Asus
+4.4,80,14.0,2.3,6,8,14,1,2400,512,1.6,1.0,45,3,1920,1080,4,322.0,210.0,18.9,1,4.2,1,Windows, LED , Yes ,No,Li-Po,No,AMD,AMD Graphics,Yes,Yes,Yes,yes,SSD,Asus
+3.8,4,14.5,2.4,6,2,8,1,2906,512,1.24,1.0,70,4,2560,1600,6,321.5,224.2,14.2,1,5.1,2,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Dell
+4.0,151,15.6,2.1,6,8,12,1,2400,1000,1.85,1.0,65,2,1920,1080,4,362.2,251.4,19.9,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+3.8899999999999997,414,15.6,1.6,6,4,13,1,2320,1000,1.8,1.0,45,3,1920,1080,6,375.0,253.0,22.0,1,4.1,1, DOS , LED , No ,Yes,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+3.5,13,14.0,4.2,8,4,8,1,3253,512,1.5,1.0,65,3,1920,1080,6,324.0,220.0,18.7,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.0,421,15.6,2.1,4,4,12,2,2666,256,1.7,1.0,45,2,1920,1080,4,362.2,253.4,19.9,1,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.5,3996,15.6,2.4,8,4,8,1,2666,512,1.86,1.0,120,3,1920,1080,6,359.0,254.0,21.7,2,5.0,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,MSI
+4.04,17,15.2,1.0,4,4,19,1,1866,128,1.4,1.0,45,4,1920,1080,2,317.5,221.0,15.2,1,4.0,1,Windows, LED , Yes ,Yes,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,No,no,HDD,Acer
+4.38,126,15.6,2.6,12,4,64,1,2693,1000,2.07,1.0,133,6,1920,1080,8,367.0,250.0,24.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,no,HDD,Lenovo
+4.1,206,15.6,1.8,8,2,16,1,2133,1000,1.7,1.0,42,3,1920,1080,6,361.4,243.5,17.9,2,4.1,1,Windows, LED , No ,Yes,Li-Po,No,Intel,NVIDIA,Yes,Yes,No,no,HDD,Asus
+3.9200000000000004,3,15.6,1.3,8,2,8,1,2533,512,1.8,1.0,49,2,1920,1080,8,360.0,234.0,19.0,2,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Asus
+4.28,104,14.0,2.4,8,8,13,1,3200,512,1.41,1.0,45,3,1920,1080,6,324.0,216.0,20.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Lenovo
+4.3,1618,14.0,1.6,6,2,8,1,2400,512,1.5,1.0,65,2,1920,1080,6,322.0,212.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Asus
+3.8800000000000003,5,15.6,2.5,8,4,8,2,2933,1000,2.3,1.0,60,4,1920,1080,8,360.0,267.0,24.7,1,4.2,1,Windows, LED , No ,No,Li-Po,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
+4.1,34,15.6,1.9,3,2,8,2,1600,1000,2.5,1.0,63,4,1366,768,2,383.0,264.0,24.8,2,4.0,1, DOS , LED , No ,Yes,Li-Ion,No,Intel,AMD Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.4,58,15.6,3.18,16,8,32,2,3200,1000,2.1,1.0,200,4,1920,1080,6,354.0,259.0,26.0,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.1,37,13.3,1.6,6,2,8,1,2666,512,1.3,1.0,65,3,1920,1080,6,306.5,194.6,16.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,HP
+5.0,5,15.6,2.2,9,8,32,1,2400,1000,2.62,1.0,180,6,1920,1080,6,383.0,260.0,29.5,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,MSI
+4.4,4,17.3,2.6,12,4,8,1,2666,512,2.24,1.0,51,3,1920,1080,8,397.0,260.0,22.9,2,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,MSI
+4.029999999999999,1501,14.0,2.1,4,8,12,2,2666,256,1.5,1.0,45,3,1920,1080,4,327.0,241.0,19.9,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Lenovo
+3.7,16,14.0,2.5,3,4,20,2,2133,1000,1.87,1.0,51,3,1366,768,4,339.0,242.0,22.4,1,4.1,1, DOS , LED , No ,No,Li-Po,No,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.4,173,15.6,2.6,12,16,32,2,2933,512,2.3,1.0,160,3,1920,1080,8,366.0,254.0,22.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Dell
+4.47,126,15.6,1.8,8,16,32,1,2666,512,2.05,1.0,65,4,1920,1080,8,359.0,246.0,17.2,2,5.0,1,Windows, LED , Yes ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,HP
+4.42,41,14.0,2.9,8,4,16,1,3200,1000,1.6,1.0,180,4,1920,1080,8,324.0,220.0,17.9,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.0,104,15.6,1.0,6,4,15,1,2400,1000,2.2,1.0,45,2,1366,768,4,379.0,261.8,22.240000000000002,1,4.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,HDD,Lenovo
+3.4,13,15.6,2.4,8,8,32,1,2666,512,2.2,1.0,150,3,1920,1080,4,360.0,262.0,26.0,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Asus
+4.529999999999999,204,14.0,1.8,8,16,30,1,4266,512,1.22,1.0,67,4,1920,1080,8,319.0,210.0,14.0,2,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,AMD Graphics,Yes,Yes,Yes,no,SSD,Asus
+4.1,1888,15.6,2.6,5,4,12,1,2400,1000,1.9,1.0,45,2,1920,1080,2,360.0,235.0,22.9,2,4.1,1,Windows, LED , No ,No,Li-Ion,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.2700000000000005,205,15.6,1.2,4,4,12,1,2666,512,1.5,1.0,59,3,1920,1080,4,352.348,239.65,18.14,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,no,SSD,Acer
+4.2,1652,15.6,1.6,6,8,15,1,2666,1000,1.74,1.0,65,3,1920,1080,6,358.4,242.0,19.9,1,4.2,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,HP
+3.5,13,14.0,4.2,8,4,8,1,3253,512,1.5,1.0,65,3,1920,1080,6,324.0,220.0,18.7,1,5.0,1,Windows, LED , Yes ,No,Li-Ion,Yes,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+4.2,54,15.6,2.1,4,8,12,1,2293,1000,1.8,1.0,45,2,1920,1080,4,360.0,235.0,19.9,2,4.2,1,Windows, LED , No ,No,Li-Po,Yes,AMD,AMD Graphics,Yes,Yes,Yes,no,HDD,Asus
+4.8,5,15.6,1.6,6,4,10,1,2133,1000,2.2,1.0,65,2,1920,1080,6,378.0,260.0,22.9,2,4.1,1,Windows, LED , No ,Yes,Li-Po,Yes,Intel,Intel Graphics,Yes,Yes,Yes,no,HDD,Lenovo
+4.4,40,15.6,2.8,12,2,16,1,3147,512,1.7,1.0,45,3,1920,1080,8,365.0,240.0,18.9,1,5.1,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,SSD,Lenovo
+4.4,21,15.6,2.9,12,8,32,2,3200,1000,2.3,1.0,180,3,1920,1080,8,359.0,256.0,24.9,1,5.0,1,Windows, LED , No ,No,Li-Ion,No,AMD,NVIDIA,Yes,Yes,Yes,yes,HDD,Asus
+3.9200000000000004,3,15.6,1.3,8,2,8,1,2533,512,1.8,1.0,49,2,1920,1080,8,360.0,234.0,19.0,2,4.0,1,Windows, LED , No ,No,Li-Ion,Yes,Intel,NVIDIA,Yes,Yes,Yes,no,SSD,Asus
+4.29,170,14.0,3.47,8,8,30,1,4266,512,1.17,1.0,67,4,1920,1080,6,319.0,208.0,13.9,3,5.0,2,Windows, LED , No ,No,Li-Ion,No,Intel,Intel Graphics,Yes,Yes,Yes,yes,SSD,Asus
+3.97,4,15.6,2.4,16,16,32,1,3200,1000,2.25,1.0,80,4,1920,1080,10,359.0,259.0,20.0,2,4.0,1,Windows, LED , No ,No,Li-Ion,No,Intel,NVIDIA,Yes,Yes,Yes,yes,HDD,Lenovo
