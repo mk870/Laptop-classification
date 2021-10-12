@@ -1,6 +1,6 @@
 # Laptop Brand Classifier: Project Overview
 * The 2020 Covid pandemic revealed some cracks in the global tech supply chains, it showed that many laptop brands share the same technology(lithium ion batteries,semiconductors,OLED),chip manufacturers(Intel,AMD,TSMC) and depend on almost the same Chinese and global companies for supplies. So as a customer, I wanted to see if these brands can still be distinguished by their product features alone even though they share the same supply chains and underlying technologies or we as consumers are just paying for the brand names alone.
-* Scraped over 1500 laptops from <**pricebaba.com**> using python and the Beautiful soup library.
+* Scraped over 1500 laptops from <**https://www.pricebaba.com**> using python and the Beautiful soup library.
 * Engineered, extracted and created new features from the data and finaly filled in missing values.
 * Optimized logistic,random forest and xgboost multi-classifiers using GridSearchCV and RandSearchCV to arrived at the best model.
 * Built a Feature importance graph showing the top 10 laptop brand distinguishing features.
